@@ -1,5 +1,7 @@
 # The Spiritist Essays — Developer Notes
 
+> © 2026 Ovande Furtado Jr. All rights reserved. See [LICENSE](LICENSE). The content of this repository is not licensed for reuse.
+
 ## Site Architecture
 
 This is a **multilingual Quarto website** powered by [babelquarto](https://docs.ropensci.org/babelquarto/).  

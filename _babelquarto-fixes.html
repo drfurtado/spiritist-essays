@@ -94,6 +94,7 @@ button.babelquarto-languages-button {
     if (!isPT) return;
     var translations = {
       'Archive':          'Arquivo',
+      'Essays':           'Ensaios',
       'About':            'Sobre'
     };
 
@@ -104,6 +105,30 @@ button.babelquarto-languages-button {
         el.textContent = translated;
       }
     });
+
+    // Footer phrases (the footer is shared by both languages in _quarto.yml)
+    var footerPhrases = [
+      ['All rights reserved.', 'Todos os direitos reservados.'],
+      ['Personal essays', 'Ensaios pessoais'],
+      ['Not peer reviewed', 'Sem revisão por pares'],
+      ['Legal', 'Aviso Legal']
+    ];
+    var footer = document.querySelector('.nav-footer');
+    if (!footer) return;
+    var walker = document.createTreeWalker(footer, NodeFilter.SHOW_TEXT);
+    var node;
+    while ((node = walker.nextNode())) {
+      var text = node.nodeValue;
+      if (text.indexOf('Aviso Legal') !== -1 || text.indexOf('Todos os direitos') !== -1) continue;
+      footerPhrases.forEach(function (pair) {
+        if (pair[0] === 'Legal') {
+          if (text.trim() === 'Legal') text = text.replace('Legal', pair[1]);
+        } else {
+          text = text.split(pair[0]).join(pair[1]);
+        }
+      });
+      node.nodeValue = text;
+    }
   };
 
   // Run everything

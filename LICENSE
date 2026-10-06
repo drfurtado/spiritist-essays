@@ -1,0 +1,9 @@
+Copyright
+
+© 2026 Ovande Furtado Jr. All rights reserved.
+
+This repository is public so that the website can be built and reviewed, but its contents are not open source and are not licensed for reuse.
+
+The essays, their translations, and all other original written content in this repository are protected by copyright. Brief quotations for commentary, review, or scholarly purposes are permitted with credit to the author and a link to the original essay at the published site. Any other reproduction, distribution, translation, adaptation, or republication, in whole or in part, including in print or electronic book form, requires the author's prior written permission.
+
+Third-party components keep their own licenses, including the Quarto extensions in _extensions/ and the citation style files (*.csl).
