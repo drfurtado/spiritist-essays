@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  site-url: "https://drfurtado.github.io/spiritist-essays"
   description: "The Spiritist Essays — Personal essays on Kardecian Spiritism in dialogue with contemporary science"
   title: "The Spiritist Essays"
   favicon: profile.jpg

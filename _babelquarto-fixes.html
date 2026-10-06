@@ -61,13 +61,18 @@ button.babelquarto-languages-button {
     }
 
     // It is missing (common on English index) - Inject it.
+    // Resolve the site root from Quarto's offset meta so links work when the
+    // site is served from a subpath (e.g. GitHub Pages project sites).
+    var offsetMeta = document.querySelector('meta[name="quarto:offset"]');
+    var rootPath = new URL(offsetMeta ? offsetMeta.content : './', window.location.href).pathname;
+    var rel = path.indexOf(rootPath) === 0 ? path.slice(rootPath.length) : path.replace(/^\//, '');
+    if (rel === '') rel = 'index.html';
+
     var ptHref, enHref;
     if (isPT) {
-      enHref = path.replace(/^\/pt\//i, '/').replace(/\.pt\.html$/i, '.html');
-      if (!enHref.startsWith('/')) enHref = '/' + enHref;
+      enHref = rootPath.replace(/pt\/$/i, '') + rel.replace(/\.pt\.html$/i, '.html');
     } else {
-      ptHref = path.replace(/^\//, '/pt/');
-      ptHref = ptHref.replace(/\/pt\/pt\//i, '/pt/');
+      ptHref = rootPath + 'pt/' + rel;
     }
 
     var li = document.createElement('li');
