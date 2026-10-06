@@ -19,6 +19,22 @@ Plain `quarto render` does not process the multilingual layer and will only gene
 ### Option 1 — Keyboard shortcut (VS Code)
 Press **`⌘ Shift B`** — this runs the default build task "Render BabelQuarto Website".
 
+## Deploying
+
+One command builds both languages and publishes to GitHub Pages:
+
+```sh
+_scripts/deploy.sh
+```
+
+Or in VS Code: `Terminal → Run Task… → Deploy Website`.
+
+The script does a clean babelquarto render, checks that the EN and PT home pages were built, and force-pushes `_site/` to the `gh-pages` branch. It does not commit your source changes, so commit and push `main` separately.
+
+Live site: https://drfurtado.github.io/spiritist-essays/
+
+---
+
 ### Editing Multilingual Content
 Each language has its own source file (`about.qmd` / `about.pt.qmd`).  
 To keep Portuguese in sync you can either edit both manually **or** use the built‑in DeepL helper script:
