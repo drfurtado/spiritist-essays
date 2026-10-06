@@ -24,7 +24,7 @@ Press **`⌘ Shift B`** — this runs the default build task "Render BabelQuarto
 One command builds both languages and publishes to GitHub Pages:
 
 ```sh
-_scripts/deploy.sh
+./_scripts/deploy.sh
 ```
 
 Or in VS Code: `Terminal → Run Task… → Deploy Website`.
