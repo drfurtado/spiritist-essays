@@ -22,7 +22,7 @@ abstract: |
   autoavaliação moral e do apego à vida material de quem morre; e (3) que o
   medo da morte é sobretudo consequência da incerteza quanto à sobrevivência e,
   portanto, diminui à medida que se fortalece a convicção de continuidade. Cada
-  afirmação é posta em diálogo com a literatura revisada por pares pertinente:
+  afirmação é posta em diálogo com a literatura científica pertinente:
   a pesquisa sobre bioeletricidade e biocampos, no primeiro caso; os estudos
   prospectivos sobre experiências de quase morte, no segundo; e a teoria do
   gerenciamento do terror, a mensuração das atitudes diante da morte e os
@@ -51,7 +51,7 @@ format:
 
 A maioria das tradições religiosas e filosóficas que afirmam a sobrevivência à morte do corpo deixa sem especificar o mecanismo dessa sobrevivência. O Espiritismo é incomum nesse aspecto. Desde sua codificação por Allan Kardec, em 1857, propõe um intermediário concreto entre o espírito imaterial e o corpo físico, a que chama *perispírito*, e atribui a esse intermediário um conjunto definido de funções: organizar o corpo durante a vida, mediar entre mente e matéria e conduzir a identidade e a memória da pessoa através da morte [@kardec1857spirits; @kardec1861mediums]. A série psicografada atribuída ao Espírito André Luiz e recebida pelo médium brasileiro Francisco Cândido Xavier entre 1944 e 1968 desenvolve esse conceito com considerável detalhe anatômico e processual [@luiz1944nosso; @luiz1959evolution].
 
-Como o perispírito recebe funções específicas, a explicação espírita da sobrevivência fica mais exposta ao escrutínio empírico do que ficaria uma simples afirmação de imortalidade. Este ensaio aproveita essa exposição. Seu argumento central é que o modelo do perispírito compromete o Espiritismo com três afirmações distintas, cada uma das quais pode ser comparada com um corpo existente de pesquisa revisada por pares:
+Como o perispírito recebe funções específicas, a explicação espírita da sobrevivência fica mais exposta ao escrutínio empírico do que ficaria uma simples afirmação de imortalidade. Este ensaio aproveita essa exposição. Seu argumento central é que o modelo do perispírito compromete o Espiritismo com três afirmações distintas, cada uma das quais pode ser comparada com um corpo existente de pesquisa científica:
 
 1. **Uma afirmação biológica.** A forma viva é organizada por um campo que precede e molda a matéria que organiza, em vez de surgir dessa matéria.
 2. **Uma afirmação tanatológica.** Morrer é uma transição gradual, e não um evento instantâneo, e seu caráter subjetivo depende das crenças, da autoavaliação moral e do apego à vida material de quem morre.

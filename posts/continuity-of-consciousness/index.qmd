@@ -21,7 +21,7 @@ abstract: |
   to material life; and (3) that fear of death is chiefly a consequence of
   uncertainty about survival and therefore diminishes as conviction of
   continuity strengthens. Each claim is placed in dialogue with the relevant
-  peer-reviewed literature: bioelectric and biofield research for the first;
+  scientific literature: bioelectric and biofield research for the first;
   prospective near-death experience studies for the second; and terror
   management theory, death-attitude measurement, and trials of psilocybin-assisted
   and meaning-centered psychotherapy for the third. The evidence is uneven
@@ -48,7 +48,7 @@ format:
 
 Most religious and philosophical traditions that affirm survival of bodily death leave the mechanism of survival unspecified. Spiritism is unusual in this respect. From its codification by Allan Kardec in 1857, it has proposed a concrete intermediary between the immaterial spirit and the physical body, which it calls the *perispirit*, and has attributed to that intermediary a definite set of functions: organizing the body during life, mediating between mind and matter, and carrying the person's identity and memory through death [@kardec1857spirits; @kardec1861mediums]. The psychographed series attributed to the Spirit André Luiz and received by the Brazilian medium Francisco Cândido Xavier between 1944 and 1968 elaborates this concept in considerable anatomical and procedural detail [@luiz1944nosso; @luiz1959evolution].
 
-Because the perispirit is given specific functions, the Spiritist account of survival is more exposed to empirical scrutiny than a bare assertion of immortality would be. This essay takes advantage of that exposure. Its central argument is that the perispirit model commits Spiritism to three distinct claims, each of which can be compared against an existing body of peer-reviewed research:
+Because the perispirit is given specific functions, the Spiritist account of survival is more exposed to empirical scrutiny than a bare assertion of immortality would be. This essay takes advantage of that exposure. Its central argument is that the perispirit model commits Spiritism to three distinct claims, each of which can be compared against an existing body of scientific research:
 
 1. **A biological claim.** Living form is organized by a field that precedes and shapes the matter it organizes, rather than arising from that matter.
 2. **A thanatological claim.** Dying is a graded transition rather than an instantaneous event, and its subjective character depends on the dying person's beliefs, moral self-assessment, and attachment to material life.
