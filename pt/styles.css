@@ -1,0 +1,48 @@
+/* Spiritist Inquiry — Journal Styles */
+
+/* ── Footer ───────────────────────────────────────────────────────────────── */
+.nav-footer {
+  background-color: #1a2f45;       /* deep navy, slightly lighter than navbar */
+  color: rgba(255, 255, 255, 0.75);
+  padding: 2rem 2.5rem;
+  min-height: 90px;
+  border-top: 3px solid #0d1e2e;
+}
+
+.nav-footer a {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-size: 0.88rem;
+  transition: color 0.2s;
+}
+
+.nav-footer a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.nav-footer p {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.nav-footer-center p {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* Keywords block — displayed before Introduction, after abstract */
+.keywords {
+  font-size: 0.88rem;
+  color: #555;
+  border-top: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+  padding: 0.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.keywords strong {
+  font-style: normal;
+  font-weight: 600;
+  color: #333;
+}

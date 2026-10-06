@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>The Spiritist Essays</title>
+<link>https://drfurtado.github.io/spiritist-essays/pt/</link>
+<atom:link href="https://drfurtado.github.io/spiritist-essays/pt/index.xml" rel="self" type="application/rss+xml"/>
+<description>The Spiritist Essays — Personal essays on Kardecian Spiritism in dialogue with contemporary science</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Mon, 05 Oct 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Continuidade da Consciência: O Perispírito, a Desencarnação e a Ansiedade da Morte no Pensamento Espírita e na Ciência Contemporânea</title>
+  <dc:creator>Ovande Furtado Jr.</dc:creator>
+  <link>https://drfurtado.github.io/spiritist-essays/pt/posts/continuity-of-consciousness/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="sec-intro" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="sec-intro"><span class="header-section-number">1</span> Introdução</h2>
+<p>A maioria das tradições religiosas e filosóficas que afirmam a sobrevivência à morte do corpo deixa sem especificar o mecanismo dessa sobrevivência. O Espiritismo é incomum nesse aspecto. Desde sua codificação por Allan Kardec, em 1857, propõe um intermediário concreto entre o espírito imaterial e o corpo físico, a que chama <em>perispírito</em>, e atribui a esse intermediário um conjunto definido de funções: organizar o corpo durante a vida, mediar entre mente e matéria e conduzir a identidade e a memória da pessoa através da morte <span class="citation" data-cites="kardec1857spirits kardec1861mediums">(Kardec, 1857, 1861)</span>. A série psicografada atribuída ao Espírito André Luiz e recebida pelo médium brasileiro Francisco Cândido Xavier entre 1944 e 1968 desenvolve esse conceito com considerável detalhe anatômico e processual <span class="citation" data-cites="luiz1944nosso luiz1959evolution">(Luiz, 1944, 1959)</span>.</p>
+<p>Como o perispírito recebe funções específicas, a explicação espírita da sobrevivência fica mais exposta ao escrutínio empírico do que ficaria uma simples afirmação de imortalidade. Este ensaio aproveita essa exposição. Seu argumento central é que o modelo do perispírito compromete o Espiritismo com três afirmações distintas, cada uma das quais pode ser comparada com um corpo existente de pesquisa científica:</p>
+<ol type="1">
+<li><strong>Uma afirmação biológica.</strong> A forma viva é organizada por um campo que precede e molda a matéria que organiza, em vez de surgir dessa matéria.</li>
+<li><strong>Uma afirmação tanatológica.</strong> Morrer é uma transição gradual, e não um evento instantâneo, e seu caráter subjetivo depende das crenças, da autoavaliação moral e do apego à vida material de quem morre.</li>
+<li><strong>Uma afirmação psicológica.</strong> O medo da morte é sobretudo consequência da incerteza quanto à sobrevivência e diminui à medida que se fortalece a convicção de continuidade pessoal.</li>
+</ol>
+<p>Essas afirmações estão logicamente relacionadas, mas são independentes do ponto de vista das evidências. A terceira poderia ser correta mesmo que a primeira fosse falsa; a segunda poderia ser compatível com as evidências mesmo que as duas primeiras continuassem sem confirmação. Tratá-las separadamente permite uma avaliação mais precisa do que a questão global de saber se o Espiritismo é “verdadeiro”, que este ensaio não pretende resolver.</p>
+<p>O ensaio está organizado da seguinte forma. A Seção&nbsp;2 descreve as fontes e o estatuto epistêmico atribuído a elas. A Seção&nbsp;3 apresenta o modelo do perispírito, e a Seção&nbsp;4, sua explicação do morrer. A Seção&nbsp;5 revisa a psicologia da ansiedade da morte, e a Seção&nbsp;6, o diagnóstico concorrente de Kardec. A Seção&nbsp;7 avalia as três afirmações à luz da literatura empírica, sintetizada na Tabela&nbsp;1. A Seção&nbsp;8 identifica uma previsão em que as explicações espírita e do gerenciamento do terror divergem. O ensaio termina com implicações práticas (Seção&nbsp;9), limitações (Seção&nbsp;10) e uma agenda de pesquisa (Seção&nbsp;11).</p>
+</section>
+<section id="sec-method" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="sec-method"><span class="header-section-number">2</span> Fontes e Método</h2>
+<section id="fontes-espíritas-primárias" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="fontes-espíritas-primárias"><span class="header-section-number">2.1</span> Fontes espíritas primárias</h3>
+<p>As obras fundamentais de Kardec são tratadas aqui como a formulação normativa da doutrina espírita. Quatro são citadas diretamente: <em>O Livro dos Espíritos</em> <span class="citation" data-cites="kardec1857spirits">(Kardec, 1857)</span>, <em>O Livro dos Médiuns</em> <span class="citation" data-cites="kardec1861mediums">(Kardec, 1861)</span>, <em>O Evangelho segundo o Espiritismo</em> <span class="citation" data-cites="kardec1864gospel">(Kardec, 1864)</span> e <em>O Céu e o Inferno</em> <span class="citation" data-cites="kardec1865heaven">(Kardec, 1865)</span>. Esses textos são citados pelo que o Espiritismo <em>afirma</em>, e não como evidência de que suas afirmações são verdadeiras.</p>
+<p>A série de André Luiz (Tabela&nbsp;2, Apêndice) é tratada como elaboração doutrinária secundária. No movimento espírita, esses livros são amplamente considerados autorizados, e a Federação Espírita Brasileira os publica como uma coleção coerente. Para os fins deste ensaio, porém, são classificados como <em>literatura testemunhal</em>: descrições em primeira pessoa, atribuídas a um autor desencarnado, de acontecimentos que não podem ser observados de forma independente. Textos desse tipo podem estabelecer o que a tradição sustenta e podem gerar hipóteses. Não podem, por si sós, corroborar essas hipóteses, e nenhuma afirmação deste ensaio depende de se presumir sua veracidade.</p>
+</section>
+<section id="fontes-científicas" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="fontes-científicas"><span class="header-section-number">2.2</span> Fontes científicas</h3>
+<p>A literatura empírica foi selecionada por sua relevância para uma das três afirmações acima e limitou-se, sempre que possível, a estudos revisados por pares, metanálises e monografias acadêmicas. A literatura popular e de divulgação só é citada quando é a fonte original de um achado, e é identificada como tal.</p>
+</section>
+<section id="abordagem-analítica" class="level3" data-number="2.3">
+<h3 data-number="2.3" class="anchored" data-anchor-id="abordagem-analítica"><span class="header-section-number">2.3</span> Abordagem analítica</h3>
+<p>Para cada afirmação, o ensaio faz três perguntas. Primeiro, <em>convergência</em>: a pesquisa independente descreve um fenômeno semelhante ao que o Espiritismo descreve? Segundo, <em>dessemelhança</em>: em que aspectos essa pesquisa difere da descrição espírita ou deixa de apoiá-la? Terceiro, <em>discriminação</em>: as evidências favorecem a explicação espírita em relação a uma explicação rival que não postula a sobrevivência? Uma convergência que uma explicação não sobrevivencialista explique igualmente bem é registrada como compatível com a afirmação espírita, mas não como apoio a ela.</p>
+</section>
+</section>
+<section id="sec-perispirit" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="sec-perispirit"><span class="header-section-number">3</span> O Perispírito: Um Modelo de Continuidade</h2>
+<section id="o-problema-da-interface-em-kardec" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="o-problema-da-interface-em-kardec"><span class="header-section-number">3.1</span> O problema da interface em Kardec</h3>
+<p>Kardec introduziu o perispírito para responder a uma pergunta que inquieta a filosofia dualista desde Descartes: como pode uma mente imaterial agir sobre um corpo material? Sua resposta foi uma substância intermediária, “semimaterial”, que envolve o espírito e o liga ao organismo <span class="citation" data-cites="kardec1857spirits">(Kardec, 1857)</span>. Ao tratar do sonambulismo, os Espíritos consultados por Kardec descrevem esse intermediário como o meio pelo qual o pensamento passa de um ser a outro, “como por um fio elétrico” <span class="citation" data-cites="kardec1857spirits">(Kardec, 1857)</span>. Em <em>O Livro dos Médiuns</em>, Kardec foi além e identificou o perispírito como a chave para explicar os fenômenos mediúnicos em geral, escrevendo que no conhecimento do perispírito estava a chave de muitos problemas até então considerados insolúveis <span class="citation" data-cites="kardec1861mediums">(Kardec, 1861)</span>.</p>
+<p>O conceito de Kardec era deliberadamente mínimo. Ele atribuía ao perispírito uma forma, a capacidade de transmitir o pensamento e um grau de materialidade que varia com o desenvolvimento moral do espírito, mas não descreveu sua estrutura interna.</p>
+</section>
+<section id="a-elaboração-de-andré-luiz" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="a-elaboração-de-andré-luiz"><span class="header-section-number">3.2</span> A elaboração de André Luiz</h3>
+<p>A série de André Luiz fornece a estrutura que Kardec deixou sem especificar. Sua afirmação central inverte a direção de explicação habitual na biologia: o perispírito não é cópia do corpo físico, mas seu molde. Em <em>Evolução em Dois Mundos</em>, o corpo espiritual é descrito como “uma organização viva à qual as células materiais se moldam”, e o texto acrescenta que “é o corpo físico que o reflete” <span class="citation" data-cites="luiz1959evolution">(Luiz, 1959)</span>. Em outro trecho, diz-se que o corpo físico é “mantido pelo corpo espiritual, a cujos moldes se ajusta” <span class="citation" data-cites="luiz1945missionaries">(Luiz, 1945)</span>.</p>
+<p>Três outras características do modelo importam para o que se segue:</p>
+<ul>
+<li><strong>Composição.</strong> O perispírito é descrito como um “veículo de células elétricas”, um “campo eletromagnético, no qual o pensamento vibra em circuito fechado”, e como “extremamente poroso e plástico” <span class="citation" data-cites="luiz1959evolution">(Luiz, 1959)</span>.</li>
+<li><strong>Organização.</strong> Contém centros vitais, funcionalmente análogos às glândulas endócrinas e aos plexos nervosos, dos quais o <em>centro coronário</em>, na cabeça, é descrito como o ponto em que a mente governa o corpo <span class="citation" data-cites="luiz1959evolution">(Luiz, 1959)</span>.</li>
+<li><strong>Sensibilidade à mente.</strong> Por ser plástico, o perispírito é alterado pelo pensamento habitual e pela conduta moral. Diz-se que a transgressão moral produz nele “certa lesão” e que a doença é uma desarmonia que “sobrevive no perispírito” e pode ser transmitida ao organismo físico <span class="citation" data-cites="luiz1959evolution luiz1957action">(Luiz, 1957, 1959)</span>.</li>
+</ul>
+<p>O modelo descreve ainda um campo luminoso que envolve cada pessoa, a <em>aura psíquica</em> ou “halo vital”, cuja coloração refletiria os pensamentos predominantes e o estado moral da pessoa <span class="citation" data-cites="luiz1960mechanics luiz1955realms">(Luiz, 1955, 1960)</span>. Este ensaio não avalia separadamente a afirmação sobre a aura; ela depende dos mesmos pressupostos do modelo do perispírito e não conta com literatura empírica independente de qualidade comparável.</p>
+</section>
+<section id="o-que-o-modelo-implica-para-o-espiritismo" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="o-que-o-modelo-implica-para-o-espiritismo"><span class="header-section-number">3.3</span> O que o modelo implica para o Espiritismo</h3>
+<p>Despojado de seus detalhes descritivos, o modelo faz a afirmação biológica enunciada na Seção&nbsp;1: a organização precede e governa a matéria. Implica também que a estrutura organizadora pode persistir quando a matéria que organizava já se decompôs. Essa segunda implicação é a ponte para a explicação espírita da morte.</p>
+</section>
+</section>
+<section id="sec-disincarnation" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="sec-disincarnation"><span class="header-section-number">4</span> A Desencarnação como Transição Gradual</h2>
+<section id="a-mecânica-da-separação" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="a-mecânica-da-separação"><span class="header-section-number">4.1</span> A mecânica da separação</h3>
+<p>A série de André Luiz descreve a morte, chamada <em>desencarnação</em>, como um processo, e não como um evento. Em <em>Obreiros da Vida Eterna</em>, o autor observa assistentes espirituais desfazendo em sequência os vínculos entre o perispírito e o corpo: primeiro na região abdominal, associada às funções vegetativas, depois na região torácica, associada às emoções, e por fim na cabeça, onde um “cordão prateado” é o último vínculo a ser rompido <span class="citation" data-cites="luiz1946workers">(Luiz, 1946)</span>. Em outra obra, esse vínculo final é situado na fossa romboide do cérebro <span class="citation" data-cites="luiz1965disobsession">(Luiz, 1965)</span>. Após a separação, o perispírito passaria por uma reorganização que o autor chama de “histogênese espiritual”, contrapartida da decomposição do corpo físico <span class="citation" data-cites="luiz1959evolution">(Luiz, 1959)</span>.</p>
+</section>
+<section id="preparo-e-experiência-do-morrer" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="preparo-e-experiência-do-morrer"><span class="header-section-number">4.2</span> Preparo e experiência do morrer</h3>
+<p>O aspecto dessa explicação mais relevante para a comparação empírica é sua afirmação de <em>variação</em>. A série insiste em que a experiência subjetiva de morrer não é uniforme e que varia em função de três fatores: crenças prévias sobre a sobrevivência, autoavaliação moral e grau de apego à vida material <span class="citation" data-cites="luiz1946workers">(Luiz, 1946)</span>. Quem morre com firmes convicções materialistas ou com culpa não resolvida é descrito como atravessando uma transição confusa e assustadora, às vezes incapaz, por algum tempo, de reconhecer a própria condição. Quem morre com convicção assentada da sobrevivência e uma vida moral razoavelmente examinada é descrito como atravessando-a com relativa serenidade <span class="citation" data-cites="luiz1946workers luiz1959evolution">(Luiz, 1946, 1959)</span>. O medo e a resistência de quem está morrendo complicariam um processo que, de outro modo, seria gradual e indolor.</p>
+<p>A série apresenta esse sofrimento como gerado pela própria pessoa, e não imposto de fora. Sua descrição do <em>Umbral</em>, região de perturbação habitada por espíritos que permanecem em estados de confusão ou desarmonia moral, segue a mesma lógica: a condição é descrita como consequência do estado mental da própria pessoa, e não como sentença judicial, e como temporária, terminando quando a pessoa busca sinceramente a mudança <span class="citation" data-cites="luiz1944nosso luiz1949liberation">(Luiz, 1944, 1949)</span>. As descrições mais elaboradas da organização social após a morte presentes na série, incluindo a colônia espiritual <em>Nosso Lar</em> e suas instituições <span class="citation" data-cites="luiz1944nosso">(Luiz, 1944)</span>, ficam fora do escopo deste ensaio, pois não geram afirmações testáveis do lado dos encarnados.</p>
+</section>
+<section id="o-que-a-explicação-prevê" class="level3" data-number="4.3">
+<h3 data-number="4.3" class="anchored" data-anchor-id="o-que-a-explicação-prevê"><span class="header-section-number">4.3</span> O que a explicação prevê</h3>
+<p>Qualquer que seja o peso que o leitor atribua a esse testemunho, sua lógica interna produz uma previsão: o preparo psicológico deveria afetar a experiência subjetiva do morrer e o período imediatamente posterior. O substituto empírico mais próximo dessa experiência é a experiência de quase morte, examinada na Seção&nbsp;7.1. Uma previsão relacionada diz respeito aos vivos. Se o despreparo torna o morrer mais difícil, o medo da morte entre os vivos deveria acompanhar as mesmas variáveis de crença, culpa e apego. Isso põe a explicação espírita em contato com a psicologia da ansiedade da morte.</p>
+</section>
+</section>
+<section id="sec-psychology" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="sec-psychology"><span class="header-section-number">5</span> A Ansiedade da Morte na Psicologia Contemporânea</h2>
+<section id="negação-e-gerenciamento-do-terror" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="negação-e-gerenciamento-do-terror"><span class="header-section-number">5.1</span> Negação e gerenciamento do terror</h3>
+<p>O estudo psicológico moderno da ansiedade da morte deve muito a <em>A Negação da Morte</em>, de Ernest Becker, que argumentou que a consciência da mortalidade gera um terror tão fundamental que boa parte da cultura humana pode ser lida como defesa contra ele <span class="citation" data-cites="becker1973denial">(Becker, 1973)</span>. Psicólogos sociais formalizaram depois a tese de Becker como <em>teoria do gerenciamento do terror</em> (TGT), que propõe dois amortecedores contra a ansiedade da morte: uma visão de mundo cultural que confere sentido e a promessa de imortalidade literal ou simbólica, e a autoestima, entendida como a sensação de corresponder aos padrões dessa visão de mundo <span class="citation" data-cites="burke2010two">(Burke; Martens; Faucher, 2010)</span>.</p>
+<p>O paradigma experimental central da TGT, a indução de <em>saliência da mortalidade</em>, pede aos participantes que pensem na própria morte antes de se medirem suas atitudes e comportamentos. Uma metanálise de 277 experimentos relatou um efeito moderado e consistente: após a saliência da mortalidade, os participantes defendiam suas visões de mundo com mais força e julgavam com mais severidade quem as violava <span class="citation" data-cites="burke2010two">(Burke; Martens; Faucher, 2010)</span>. Essa conclusão foi depois relativizada. Uma grande replicação multicêntrica, o Many Labs 4, não reproduziu o efeito básico de saliência da mortalidade, nem com nem sem a participação dos autores originais <span class="citation" data-cites="klein2022manylabs">(<span class="nocase">Klein <em>et al.</em></span>, 2022)</span>. O estatuto do paradigma é, portanto, menos firme do que a metanálise anterior sugeria, ponto que pesa na comparação feita na Seção&nbsp;8.</p>
+<p>A TGT não afirma que a ansiedade da morte possa ser eliminada. Segundo ela, a ansiedade é amortecida e desviada, enquanto o terror subjacente permanece, pronto a ressurgir quando os amortecedores falham.</p>
+</section>
+<section id="psicoterapia-existencial" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="psicoterapia-existencial"><span class="header-section-number">5.2</span> Psicoterapia existencial</h3>
+<p>Uma tradição clínica associada a Irvin Yalom adota outra postura. Em vez de reforçar as defesas contra a consciência da morte, a psicoterapia existencial convida o paciente a confrontar diretamente a mortalidade. Yalom relatou que pacientes levados por um diagnóstico ou por uma perda a encarar a morte frequentemente viviam o que ele chamou de “experiência de despertar”, marcada por menor ansiedade e por uma reordenação de prioridades depois de elaborado o choque inicial <span class="citation" data-cites="yalom2008staring">(Yalom, 2008)</span>. A observação de que o confronto pode reduzir a ansiedade não se acomoda facilmente em um modelo que trata a evitação como a defesa principal.</p>
+</section>
+<section id="mensuração-e-o-papel-da-certeza" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="mensuração-e-o-papel-da-certeza"><span class="header-section-number">5.3</span> Mensuração e o papel da certeza</h3>
+<p>A Escala de Ansiedade da Morte de Templer, instrumento de autorrelato de 15 itens publicado em 1970, tornou a ansiedade da morte mensurável e, portanto, correlacionável com religiosidade, idade, saúde e intervenções <span class="citation" data-cites="templer1970death">(Templer, 1970)</span>. A pesquisa que se seguiu produziu um achado de especial relevância aqui. Revisões indicam que a relação entre religiosidade e ansiedade da morte é inconsistente entre os estudos e, em vários deles, curvilínea: pessoas com crenças incertas ou frágeis relatam mais ansiedade do que as confiantemente religiosas ou as confiantemente não religiosas <span class="citation" data-cites="neimeyer2004psychological">(Neimeyer; Wittkowski; Moser, 2004)</span>. O modelo abrangente de Tomer e Eliason formaliza esse padrão. Sustenta que a ansiedade da morte depende menos do conteúdo das crenças de uma pessoa do que de sua coerência e da confiança nelas, e identifica o arrependimento em relação ao passado como um segundo fator, independente <span class="citation" data-cites="tomer1996comprehensive">(Tomer; Eliason, 1996)</span>.</p>
+<p>Se a confiança importa mais que o conteúdo, qualquer explicação que prometa aumentar a confiança, por qualquer meio, é em princípio relevante para a redução da ansiedade da morte. O Espiritismo apresenta-se como uma explicação desse tipo.</p>
+</section>
+</section>
+<section id="sec-diagnosis" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="sec-diagnosis"><span class="header-section-number">6</span> O Diagnóstico de Kardec</h2>
+<p>Kardec tratou o medo da morte como um problema prático, com causas identificáveis. Em <em>O Livro dos Espíritos</em>, atribuiu-o a duas fontes: um instinto de conservação natural e em grande parte involuntário, e uma segunda causa, corrigível, a saber, a convicção insuficiente de que algo sobrevive ao corpo, por vezes agravada pelo medo de castigos arbitrários herdado de teologias anteriores <span class="citation" data-cites="kardec1857spirits">(Kardec, 1857)</span>. Os Espíritos consultados por Kardec sustentam que o segundo componente diminui à medida que se aprofunda a compreensão da continuidade da alma. A morte é apresentada como uma transformação, o abandono de um corpo que deixou de ser útil, que Kardec compara repetidamente ao abandono de uma roupa gasta <span class="citation" data-cites="kardec1857spirits">(Kardec, 1857)</span>.</p>
+<p><em>O Evangelho segundo o Espiritismo</em> estende o argumento ao luto. O luto comum e a ansiedade da morte, argumenta Kardec, são desproporcionais porque se apoiam na premissa de que a morte do corpo é o aniquilamento da pessoa. Corrigir essa premissa pela convicção racional, e não pela fé, transformaria ambos: a tristeza da separação permanece, mas o terror do não ser, não <span class="citation" data-cites="kardec1864gospel">(Kardec, 1864)</span>. Em <em>O Céu e o Inferno</em>, Kardec aplica o diagnóstico às pessoas educadas em tradições de castigo eterno, para as quais a crença religiosa pode intensificar, em vez de aliviar, o medo da morte, e apresenta sua concepção de consequências morais progressivas e autodeterminadas, em parte, como remédio para esse medo <span class="citation" data-cites="kardec1865heaven">(Kardec, 1865)</span>.</p>
+<p>Duas características desse diagnóstico antecipam os achados empíricos revistos na Seção&nbsp;5. Primeiro, Kardec situa a variável decisiva na <em>certeza</em> das crenças sobre o que vem depois da morte, como fariam mais tarde Tomer e Eliason <span class="citation" data-cites="tomer1996comprehensive">(Tomer; Eliason, 1996)</span>. Segundo, insiste em que essa certeza deve repousar na razão e na evidência, e não na autoridade ou no hábito. É essa segunda característica que separa a explicação espírita da TGT, e ela é desenvolvida na Seção&nbsp;8.</p>
+</section>
+<section id="sec-evidence" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="sec-evidence"><span class="header-section-number">7</span> Evidências Convergentes e Divergentes</h2>
+<p>Esta seção avalia as três afirmações na ordem em que as evidências se aplicam mais diretamente a elas. A Tabela&nbsp;1 resume os resultados.</p>
+<section id="sec-evidence-nde" class="level3" data-number="7.1">
+<h3 data-number="7.1" class="anchored" data-anchor-id="sec-evidence-nde"><span class="header-section-number">7.1</span> Experiências de quase morte</h3>
+<p>Estudos prospectivos com sobreviventes de parada cardíaca oferecem o acesso empírico mais próximo à experiência do morrer. Van Lommel e colaboradores entrevistaram 344 sobreviventes em dez hospitais holandeses; 62 (18%) relataram uma experiência de quase morte (EQM), e o acompanhamento longitudinal mostrou que os que a viveram apresentavam mudanças duradouras de atitude, inclusive menor medo da morte, não observadas nos sobreviventes sem EQM <span class="citation" data-cites="vanLommel2001 vanlommel2010consciousness">(Lommel <em>et al.</em>, 2001; Lommel, 2010)</span>. Trabalhos retrospectivos anteriores de Ring haviam identificado a redução do medo da morte como um dos efeitos posteriores mais consistentes das EQMs <span class="citation" data-cites="ring1980life">(Ring, 1980)</span>, e a coletânea pioneira de relatos de Moody, ainda que metodologicamente informal, registrou pessoas que descreviam sua nova atitude como “saber”, e não “acreditar” <span class="citation" data-cites="moody1975life">(Moody, 1975)</span>. O estudo prospectivo de Greyson em uma unidade cardiológica fornece uma estimativa independente de incidência e uma medida padronizada do conteúdo das EQMs <span class="citation" data-cites="greyson2003nde">(Greyson, 2003)</span>.</p>
+<p>Os estudos multicêntricos AWARE tentaram testar diretamente as alegações de percepção durante a parada cardíaca. O AWARE relatou um caso de consciência auditiva e visual aparentemente verificada durante a reanimação, mas nenhum participante viu os alvos visuais ocultos colocados nas áreas de reanimação <span class="citation" data-cites="parnia2014aware">(Parnia <em>et al.</em>, 2014)</span>. O AWARE-II registrou a atividade cerebral durante a reanimação cardiopulmonar e verificou que alguns pacientes apresentavam atividade eletroencefalográfica próxima da normal até bem adiante no processo de reanimação <span class="citation" data-cites="parnia2023aware2">(Parnia <em>et al.</em>, 2023)</span>. Esse achado contraria a afirmação comum de que as EQMs ocorrem durante um período sem atividade cerebral mensurável. Não mostra que essas experiências sejam produzidas por essa atividade, mas enfraquece qualquer inferência em favor da sobrevivência que dependa de o cérebro ter estado inativo. A revisão de Holden sobre a percepção verídica nas EQMs conclui que uma proporção substancial das percepções relatadas é exata, embora registre os limites metodológicos de casos em grande parte retrospectivos <span class="citation" data-cites="holden2009veridical">(Holden, 2009)</span>.</p>
+<p><em>Relevância para as afirmações.</em> Para a afirmação tanatológica, a literatura sobre EQM oferece convergência: as pessoas frequentemente relatam uma separação do corpo e uma continuidade da consciência que se assemelham à descrição espírita. Oferece pouca discriminação, porém, porque não se excluiu o cérebro moribundo como origem dessas experiências. Para a afirmação psicológica, as evidências são mais fortes. A redução do medo da morte após uma EQM é um dos efeitos posteriores mais bem replicados da área, e as pessoas a atribuem a uma convicção direta, e não a uma crença adotada, como o diagnóstico de Kardec preveria.</p>
+</section>
+<section id="psicoterapia-assistida-por-psilocibina-e-psicoterapia-centrada-no-sentido" class="level3" data-number="7.2">
+<h3 data-number="7.2" class="anchored" data-anchor-id="psicoterapia-assistida-por-psilocibina-e-psicoterapia-centrada-no-sentido"><span class="header-section-number">7.2</span> Psicoterapia assistida por psilocibina e psicoterapia centrada no sentido</h3>
+<p>Dois ensaios clínicos randomizados administraram uma única dose alta de psilocibina, em condições de apoio, a pacientes com câncer potencialmente fatal <span class="citation" data-cites="griffiths2016psilocybin ross2016rapid">(Griffiths <em>et al.</em>, 2016; Ross <em>et al.</em>, 2016)</span>. Ambos relataram reduções substanciais e duradouras de depressão e ansiedade, incluindo o sofrimento existencial e relacionado à morte, mantidas no acompanhamento de seis meses. Em ambos, o grau de melhora esteve associado à intensidade da experiência de tipo místico ocasionada pela substância, medida por questionários padronizados, e não apenas à dose.</p>
+<p>A psicoterapia centrada no sentido de Breitbart, desenvolvida para pacientes com câncer avançado, chega a um ponto de chegada semelhante por meios não farmacológicos. Em um ensaio randomizado, produziu maiores melhoras no bem-estar espiritual e no senso de sentido, e maiores reduções da desesperança e do desejo de antecipar a morte, do que a psicoterapia de apoio <span class="citation" data-cites="breitbart2015meaning">(Breitbart <em>et al.</em>, 2018)</span>.</p>
+<p><em>Relevância para as afirmações.</em> Esses achados dizem respeito apenas à afirmação psicológica, e a apoiam de modo específico. Três caminhos muito diferentes (uma EQM, uma experiência mística ocasionada farmacologicamente e uma terapia estruturada voltada para o sentido) chegam a um ponto de chegada psicológico semelhante. O que têm em comum não é um mecanismo, mas uma função: cada um fortalece a percepção da pessoa de que sua existência não se esgota na morte do corpo ou está inserida em algo maior. É essa a variável que tanto o diagnóstico de Kardec quanto o modelo de Tomer e Eliason identificam como decisiva <span class="citation" data-cites="kardec1857spirits tomer1996comprehensive">(Kardec, 1857; Tomer; Eliason, 1996)</span>. Os achados com psilocibina mostram também que essa convicção pode ser produzida sem nenhuma mudança nas evidências de que a pessoa dispõe, o que é relevante para a divergência examinada na Seção&nbsp;8.</p>
+</section>
+<section id="bioeletricidade-e-biocampos" class="level3" data-number="7.3">
+<h3 data-number="7.3" class="anchored" data-anchor-id="bioeletricidade-e-biocampos"><span class="header-section-number">7.3</span> Bioeletricidade e biocampos</h3>
+<p>A afirmação biológica encontra seus paralelos científicos mais próximos na pesquisa sobre campos bioelétricos. Harold Saxton Burr, trabalhando em Yale ao longo de várias décadas, relatou que gradientes de voltagem em ovos de anfíbios em desenvolvimento antecipavam o futuro eixo do sistema nervoso, e propôs que “campos da vida” atuam como moldes organizadores da forma biológica <span class="citation" data-cites="burr1972blueprint">(Burr, 1972)</span>. As afirmações mais amplas de Burr, incluindo aplicações diagnósticas, não foram amplamente adotadas. Trabalhos mais recentes de Levin e colaboradores, contudo, estabeleceram que gradientes bioelétricos endógenos transportam informação instrutiva no desenvolvimento embrionário, na regeneração e na supressão de tumores, e que alterar esses gradientes pode redirecionar a anatomia em larga escala <span class="citation" data-cites="levin2021bioelectriccode">(Levin, 2021)</span>. A pesquisa sobre o campo eletromagnético do coração, conduzida principalmente no HeartMath Institute, propõe que campos fisiológicos contribuem para a regulação entre os sistemas do corpo <span class="citation" data-cites="mccraty2015biofield">(McCraty; Deyhle; Childre, 2015)</span>.</p>
+<p><em>Relevância para as afirmações.</em> A convergência é real: tanto no modelo espírita quanto na bioeletricidade do desenvolvimento contemporânea, um padrão não redutível ao genoma contribui para determinar a forma anatômica. As diferenças são igualmente importantes. Os padrões bioelétricos descritos por Levin são gerados por canais iônicos em membranas celulares comuns; são mensuráveis com instrumentos convencionais; e cessam quando as células que os geram morrem. São uma propriedade <em>da</em> matéria viva, e não uma estrutura que a precede e sobrevive a ela. A literatura sobre biocampos, por sua vez, provém em grande parte de um único programa de pesquisa e requer replicação independente. Essas evidências mostram, portanto, que pensar a forma biológica a partir do “campo primeiro” é cientificamente respeitável. Não apoiam a existência de um campo que persiste após a morte, que é a característica do perispírito da qual dependem as outras duas afirmações.</p>
+</section>
+<section id="teorias-eletromagnéticas-da-consciência" class="level3" data-number="7.4">
+<h3 data-number="7.4" class="anchored" data-anchor-id="teorias-eletromagnéticas-da-consciência"><span class="header-section-number">7.4</span> Teorias eletromagnéticas da consciência</h3>
+<p>A teoria do campo eletromagnético de informação consciente (<em>cemi</em>), de McFadden, propõe que a consciência é idêntica à informação codificada no campo eletromagnético do cérebro, o que explicaria como a atividade neural distribuída se integra em uma experiência unificada <span class="citation" data-cites="mcfadden2020electromagnetic">(McFadden, 2020)</span>. A analogia de Kardec, de 1857, do pensamento transmitido “como por um fio elétrico” <span class="citation" data-cites="kardec1857spirits">(Kardec, 1857)</span> e a descrição de André Luiz do perispírito como um campo eletromagnético “no qual o pensamento vibra” <span class="citation" data-cites="luiz1959evolution">(Luiz, 1959)</span> convidam à comparação com essa teoria.</p>
+<p><em>Relevância para as afirmações.</em> A comparação deve ser feita com cuidado. Na teoria <em>cemi</em>, o campo é gerado pelos disparos neuronais e não existe independentemente deles; McFadden apresenta a teoria como uma explicação inteiramente fisicalista da consciência. Em seus próprios termos, a teoria prevê que a consciência termina quando termina a atividade cerebral. Oferece, portanto, um paralelo terminológico com a descrição espírita, e não apoio à sobrevivência.</p>
+</section>
+<section id="pesquisa-sobre-reencarnação" class="level3" data-number="7.5">
+<h3 data-number="7.5" class="anchored" data-anchor-id="pesquisa-sobre-reencarnação"><span class="header-section-number">7.5</span> Pesquisa sobre reencarnação</h3>
+<p>As investigações de Ian Stevenson sobre crianças pequenas que fazem afirmações espontâneas sugestivas de memórias de uma vida anterior, iniciadas com <em>Twenty Cases Suggestive of Reincarnation</em> e continuadas ao longo de várias décadas, constituem o programa empírico mais sistemático relacionado à continuidade pessoal <span class="citation" data-cites="stevenson1966reincarnation">(Stevenson, 1966)</span>. Stevenson documentou casos em que as afirmações das crianças foram confrontadas com a vida de uma pessoa falecida identificada, e seus relatos de casos continuam a ser a referência da área.</p>
+<p><em>Relevância para as afirmações.</em> O trabalho de Stevenson diz respeito à continuidade em geral, e não ao perispírito especificamente. A explicação espírita da reencarnação atribui ao perispírito um papel na formação do novo corpo <span class="citation" data-cites="luiz1945missionaries">(Luiz, 1945)</span>, e os relatos de Stevenson sobre marcas de nascença correspondentes a ferimentos de uma personalidade anterior são às vezes citados nesse contexto. O peso probatório do material de casos, porém, continua controverso, e explicações alternativas, como a influência cultural sobre as afirmações das crianças e a influência do investigador, não foram excluídas de modo a satisfazer a maioria dos pesquisadores.</p>
+</section>
+<section id="síntese" class="level3" data-number="7.6">
+<h3 data-number="7.6" class="anchored" data-anchor-id="síntese"><span class="header-section-number">7.6</span> Síntese</h3>
+<div id="tbl-claims" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-claims-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Tabela&nbsp;1: Síntese das três afirmações implicadas pelo modelo do perispírito e do estado das evidências para cada uma.
+</figcaption>
+<div aria-describedby="tbl-claims-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Afirmação espírita</th>
+<th>Literatura empírica mais próxima</th>
+<th>Convergência</th>
+<th>Principal dessemelhança ou limite</th>
+<th>Avaliação</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Biológica: um campo organiza a forma antes da matéria</td>
+<td>Bioeletricidade do desenvolvimento; pesquisa sobre biocampos</td>
+<td>Padrões não genéticos ajudam a determinar a anatomia</td>
+<td>Os campos conhecidos são produzidos por células vivas e cessam com a morte</td>
+<td>Apenas analogia</td>
+</tr>
+<tr class="even">
+<td>Tanatológica: morrer é gradual e moldado pelo preparo</td>
+<td>Estudos prospectivos sobre EQM</td>
+<td>Relatos de separação e de consciência contínua</td>
+<td>Atividade cerebral durante a parada cardíaca não excluída</td>
+<td>Compatível, sem discriminar</td>
+</tr>
+<tr class="odd">
+<td>Psicológica: o medo da morte acompanha a certeza sobre a sobrevivência</td>
+<td>Pesquisa sobre atitudes diante da morte; efeitos posteriores das EQMs; ensaios com psilocibina e terapia centrada no sentido</td>
+<td>A ansiedade cai à medida que aumenta a convicção de continuidade ou de sentido</td>
+<td>O mesmo padrão é previsto, em parte, por explicações não sobrevivencialistas</td>
+<td>Apoio substancial</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+</section>
+</section>
+<section id="sec-tmt" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="sec-tmt"><span class="header-section-number">8</span> Gerenciamento do Terror e Espiritismo: Uma Divergência Testável</h2>
+<p>A convergência documentada acima não deve ocultar uma divergência real quanto ao mecanismo. A TGT trata a convicção em uma visão de mundo como um amortecedor psicológico cuja eficácia não depende de essa visão ser verdadeira; nessa perspectiva, o Espiritismo reduz a ansiedade da morte simplesmente por ser uma visão de mundo coerente e doadora de sentido <span class="citation" data-cites="burke2010two">(Burke; Martens; Faucher, 2010)</span>. A explicação espírita faz uma afirmação mais forte. Sustenta que a ansiedade da morte recua de forma mais duradoura quando a convicção se apoia em evidências, porque uma convicção assim fundamentada é menos vulnerável à dúvida que Tomer e Eliason identificam como motor da ansiedade não resolvida <span class="citation" data-cites="kardec1857spirits tomer1996comprehensive">(Kardec, 1857; Tomer; Eliason, 1996)</span>. A insistência de Kardec em que o Espiritismo seja abordado pela razão, e não pela fé, é, nessa leitura, central para sua afirmação terapêutica, e não acessória.</p>
+<p>A divergência produz uma previsão que, em princípio, poderia ser testada. A TGT prevê que qualquer visão de mundo suficientemente coerente deveria amortecer a ansiedade da morte de modo aproximadamente igual, mantida constante a força da convicção. A explicação espírita prevê que a convicção fundada em experiência aparentemente direta (uma EQM, uma experiência na prática mediúnica ou um estudo refletido das evidências) deveria ser mais duradoura sob estresse do que uma convicção de igual intensidade declarada adquirida por transmissão cultural. Uma comparação longitudinal entre grupos pareados de materialistas convictos, crentes convencionais convictos e crentes cuja convicção se apoia em experiência direta permitiria responder à questão. Esse conjunto de dados ainda não existe.</p>
+<p>Duas complicações merecem menção. Primeiro, os ensaios com psilocibina mostram que um forte senso de continuidade pode ser induzido sem nenhuma evidência nova sobre a sobrevivência <span class="citation" data-cites="griffiths2016psilocybin ross2016rapid">(Griffiths <em>et al.</em>, 2016; Ross <em>et al.</em>, 2016)</span>. Uma redução da ansiedade após uma convicção “experiencial” não pode, portanto, mostrar por si só que essa convicção é correta. A previsão espírita diz respeito à durabilidade da convicção, não à sua verdade. Segundo, as dificuldades de replicação do paradigma da saliência da mortalidade <span class="citation" data-cites="klein2022manylabs">(<span class="nocase">Klein <em>et al.</em></span>, 2022)</span> significam que a própria explicação rival é menos segura do que parecia, o que torna os dados comparativos diretos mais valiosos, e não menos.</p>
+<p>Um segundo ponto de divergência diz respeito à autoavaliação moral. Na TGT, a autoestima protege contra a ansiedade em grande medida independentemente do conteúdo moral do padrão que se cumpre <span class="citation" data-cites="burke2010two">(Burke; Martens; Faucher, 2010)</span>. A literatura espírita sustenta, ao contrário, que a culpa não resolvida é causa independente tanto da ansiedade da morte quanto de uma transição difícil <span class="citation" data-cites="kardec1857spirits luiz1946workers">(Kardec, 1857; Luiz, 1946)</span>. A identificação, por Tomer e Eliason, do arrependimento em relação ao passado como fator distinto da ansiedade da morte <span class="citation" data-cites="tomer1996comprehensive">(Tomer; Eliason, 1996)</span> está, nesse ponto, mais próxima da posição espírita do que da TGT.</p>
+</section>
+<section id="sec-implications" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="sec-implications"><span class="header-section-number">9</span> Implicações para a Clínica e a Assistência Espiritual</h2>
+<p>Desta análise decorrem três implicações práticas, nenhuma das quais depende de se resolver a questão metafísica.</p>
+<p>Primeiro, como a ansiedade da morte acompanha mais de perto a coerência das crenças de uma pessoa do que sua filiação religiosa <span class="citation" data-cites="neimeyer2004psychological tomer1996comprehensive">(Neimeyer; Wittkowski; Moser, 2004; Tomer; Eliason, 1996)</span>, clínicos e trabalhadores da assistência espiritual não devem presumir que a crença religiosa nominal seja protetora. Um paciente nominalmente religioso, mas intimamente em dúvida, pode correr mais risco de ansiedade intensa do que um crente convicto ou um descrente convicto. Ajudar os pacientes a articular e examinar as próprias crenças tende a ser mais útil do que tranquilizá-los.</p>
+<p>Segundo, a concordância entre as observações clínicas de Yalom e a descrição de André Luiz sobre o preparo <span class="citation" data-cites="yalom2008staring luiz1946workers">(Luiz, 1946; Yalom, 2008)</span> apoia as práticas de cuidados paliativos que incentivam um enfrentamento amparado da mortalidade, em vez da evitação. A assistência espiritual praticada nos centros espíritas é compatível com essas práticas na medida em que privilegia o enfrentamento refletido da morte, e não a evitação ou o simples consolo.</p>
+<p>Terceiro, os ensaios com psilocibina e com psicoterapia centrada no sentido indicam que intervenções que fortalecem de forma duradoura o senso de continuidade ou de sentido de um paciente constituem uma resposta baseada em evidências ao sofrimento existencial na doença terminal <span class="citation" data-cites="griffiths2016psilocybin ross2016rapid breitbart2015meaning">(Breitbart <em>et al.</em>, 2018; Griffiths <em>et al.</em>, 2016; Ross <em>et al.</em>, 2016)</span>. Os clínicos podem valer-se desses achados sem tomar posição sobre o estatuto metafísico das experiências envolvidas.</p>
+</section>
+<section id="sec-limitations" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="sec-limitations"><span class="header-section-number">10</span> Limitações</h2>
+<p>Várias limitações restringem as conclusões deste ensaio.</p>
+<p><em>Fontes testemunhais.</em> A afirmação tanatológica apoia-se na série de André Luiz, cujas descrições não podem ser verificadas de forma independente. O ensaio usou essa literatura para identificar previsões, mas as previsões são apenas tão específicas quanto o testemunho.</p>
+<p><em>Seleção da literatura.</em> Este é um ensaio de integração conceitual, e não uma revisão sistemática. Suas fontes científicas foram escolhidas pela relevância para as três afirmações, e uma busca sistemática poderia ter identificado achados contrários, sobretudo nas literaturas sobre atitudes diante da morte e sobre EQM.</p>
+<p><em>Assimetria das evidências.</em> A maior parte do apoio identificado aqui recai sobre a afirmação psicológica, que é a menos específica do Espiritismo. Muitas visões de mundo que prometem continuidade ou sentido deveriam reduzir a ansiedade da morte. O achado é compatível com o Espiritismo, mas não o distingue das demais.</p>
+<p><em>Analogia e identidade.</em> Vários dos paralelos discutidos na Seção&nbsp;7 (o perispírito e o campo bioelétrico, o perispírito e o campo <em>cemi</em>) são analogias entre descrições. Em cada caso, o construto científico carece da propriedade, a persistência além da morte, que torna o construto espírita relevante para a sobrevivência.</p>
+<p><em>Posição do autor.</em> O autor é espírita praticante. Os leitores devem ponderar os juízos interpretativos do ensaio em conformidade.</p>
+</section>
+<section id="sec-agenda" class="level2" data-number="11">
+<h2 data-number="11" class="anchored" data-anchor-id="sec-agenda"><span class="header-section-number">11</span> Agenda de Pesquisa</h2>
+<p>A análise sugere quatro direções de pesquisa que os estudos espíritas estão bem posicionados para desenvolver.</p>
+<ol type="1">
+<li><strong>A previsão da durabilidade.</strong> Um estudo longitudinal que compare a estabilidade da ansiedade da morte sob estresse entre grupos pareados quanto à força da convicção, mas diferentes quanto à sua origem, testaria diretamente a divergência identificada na Seção&nbsp;8.</li>
+<li><strong>O preparo e os que estão morrendo.</strong> Estudos prospectivos em cuidados paliativos poderiam examinar se medidas, antes da morte, da coerência das crenças, do arrependimento e do apego predizem o sofrimento dos pacientes em seus últimos dias, como sugerem tanto a descrição de André Luiz quanto o modelo de Tomer e Eliason.</li>
+<li><strong>Fenomenologia da quase morte e crença prévia.</strong> Se o preparo molda a experiência de morrer, as crenças prévias medidas antes de uma parada cardíaca deveriam predizer o tom emocional de EQMs subsequentes. Os desenhos prospectivos existentes poderiam incorporar essas medidas a custo modesto.</li>
+<li><strong>Análise textual do corpus de André Luiz.</strong> Afirma-se com frequência que os treze volumes são internamente consistentes, mas, até onde o autor sabe, isso nunca foi testado por análise estilométrica ou de conteúdo formal. Um estudo desse tipo estabeleceria o que o corpus efetivamente afirma e com que consistência.</li>
+</ol>
+</section>
+<section id="sec-conclusion" class="level2" data-number="12">
+<h2 data-number="12" class="anchored" data-anchor-id="sec-conclusion"><span class="header-section-number">12</span> Conclusão</h2>
+<p>O perispírito é o conceito que transforma a crença espírita na sobrevivência em um modelo com consequências específicas. Este ensaio separou essas consequências em três afirmações e examinou cada uma à luz da pesquisa atual. A afirmação psicológica, de que o medo da morte recua à medida que se fortalece a convicção de continuidade, encontra apoio substancial na pesquisa sobre atitudes diante da morte, nos efeitos posteriores das EQMs e em ensaios clínicos, e Kardec a formulou em 1857, mais de um século antes de existir o estudo empírico das atitudes diante da morte. A afirmação tanatológica, de que morrer é uma transição gradual moldada pelo preparo, é compatível com a pesquisa sobre quase morte, mas não é estabelecida por ela. A afirmação biológica, de que um campo organiza o corpo e sobrevive a ele, tem análogos científicos que compartilham a primeira propriedade, mas não a segunda.</p>
+<p>Esse resultado desigual não resolve se a consciência sobrevive à morte, e não pretendia resolver. Mostra, porém, que a explicação espírita pode ser decomposta em partes que a pesquisa empírica pode abordar, e identifica pelo menos uma previsão em que o Espiritismo e sua principal rival psicológica divergem. Testar previsões desse tipo é uma forma de diálogo entre Espiritismo e ciência mais produtiva do que a afirmação ou a rejeição.</p>
+</section>
+<section id="declarações" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="declarações">Declarações</h2>
+<p><strong>Estatuto.</strong> Ensaio pessoal. Este ensaio não foi revisado por pares.</p>
+<p><strong>Conflito de interesses.</strong> O autor é espírita praticante. Não são declarados outros interesses concorrentes.</p>
+<p><strong>Financiamento.</strong> Nenhum.</p>
+<p><strong>Disponibilidade de dados.</strong> Não se aplica; nenhum dado novo foi gerado.</p>
+<p><strong>Procedência.</strong> Este ensaio reúne e revisa três ensaios anteriores do autor publicados neste site e agora retirados: <em>Medo da Morte: Uma Integração Espírita e Psicológica</em>, <em>A Vida no Mundo Espiritual: Uma Introdução à Coleção de 13 Livros de André Luiz</em> e <em>O Corpo Espiritual: O que a Ciência e o Espiritismo Revelam sobre o Perispírito</em>.</p>
+</section>
+<section id="referências" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="referências">Referências</h2>
+<div id="refs" class="references csl-bib-body" data-entry-spacing="1">
+<div id="ref-becker1973denial" class="csl-entry">
+BECKER, Ernest. <strong>The Denial of Death</strong>. New York: Free Press, 1973.
+</div>
+<div id="ref-breitbart2015meaning" class="csl-entry">
+BREITBART, William; PESSIN, Hayley; ROSENFELD, Barry; APPLEBAUM, Allison J.; LICHTENTHAL, Wendy G.; LI, Yuelin; SARACINO, Rebecca M.; MARZILIANO, Allison M.; MASTERSON, Melissa; TOBIAS, Katherine; FENN, Noa. <a href="https://doi.org/10.1002/cncr.31539">Individual meaning-centered psychotherapy for the treatment of psychological and existential distress: A randomized controlled trial in patients with advanced cancer</a>. <strong>Cancer</strong>, v. 124, n. 15, p. 3231–3239, 2018.
+</div>
+<div id="ref-burke2010two" class="csl-entry">
+BURKE, Brian L.; MARTENS, Andy; FAUCHER, Erik H. <a href="https://doi.org/10.1177/1088868309352321">Two decades of terror management theory: A meta-analysis of mortality salience research</a>. <strong>Personality and Social Psychology Review</strong>, v. 14, n. 2, p. 155–195, 2010.
+</div>
+<div id="ref-burr1972blueprint" class="csl-entry">
+BURR, Harold Saxton. <strong>Blueprint for Immortality: The Electric Patterns of Life</strong>. London: Neville Spearman, 1972.
+</div>
+<div id="ref-greyson2003nde" class="csl-entry">
+GREYSON, Bruce. <a href="https://doi.org/10.1016/S0163-8343(03)00042-2">Incidence and correlates of near-death experiences in a cardiac care unit</a>. <strong>General Hospital Psychiatry</strong>, v. 25, n. 4, p. 269–276, 2003.
+</div>
+<div id="ref-griffiths2016psilocybin" class="csl-entry">
+GRIFFITHS, Roland R.; JOHNSON, Matthew W.; CARDUCCI, Michael A.; UMBRICHT, Annie; RICHARDS, William A.; RICHARDS, Brian D.; COSIMANO, Mary P.; KLINEDINST, Margaret A. <a href="https://doi.org/10.1177/0269881116675513">Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial</a>. <strong>Journal of Psychopharmacology</strong>, v. 30, n. 12, p. 1181–1197, 2016.
+</div>
+<div id="ref-holden2009veridical" class="csl-entry">
+HOLDEN, Janice Miner. Veridical perception in near-death experiences. <em>In</em>: HOLDEN, Janice Miner; GREYSON, Bruce; JAMES, Debbie (Orgs.). <strong>The Handbook of Near-Death Experiences: Thirty Years of Investigation</strong>. <em>[S.l.]</em>: Praeger/ABC-CLIO, 2009. p. 185–211.
+</div>
+<div id="ref-kardec1857spirits" class="csl-entry">
+KARDEC, Allan. <strong>The Spirits’ Book</strong>. Rio de Janeiro: FEB, 1857.
+</div>
+<div id="ref-kardec1861mediums" class="csl-entry">
+KARDEC, Allan. <strong>The Mediums’ Book</strong>. Rio de Janeiro: FEB, 1861.
+</div>
+<div id="ref-kardec1864gospel" class="csl-entry">
+KARDEC, Allan. <strong>The Gospel According to Spiritism</strong>. Rio de Janeiro: FEB, 1864.
+</div>
+<div id="ref-kardec1865heaven" class="csl-entry">
+KARDEC, Allan. <strong>Heaven and Hell, or The Divine Justice Vindicated in the Plurality of Existences</strong>. Rio de Janeiro: FEB, 1865.
+</div>
+<div id="ref-klein2022manylabs" class="csl-entry">
+<span class="nocase">KLEIN, Richard A.; COOK, Corey L.; EBERSOLE, Charles R.; VITIELLO, Christine; NOSEK, Brian A.; RATLIFF, Kate A.; OTHERS</span>. <a href="https://doi.org/10.1525/collabra.35271">Many Labs 4: Failure to replicate mortality salience effect with and without original author involvement</a>. <strong>Collabra: Psychology</strong>, v. 8, n. 1, p. 35271, 2022.
+</div>
+<div id="ref-levin2021bioelectriccode" class="csl-entry">
+LEVIN, Michael. <a href="https://doi.org/10.1016/j.cell.2021.02.034">Bioelectric signaling: Reprogrammable circuits underlying embryogenesis, regeneration, and cancer</a>. <strong>Cell</strong>, v. 184, n. 8, p. 1971–1989, 2021.
+</div>
+<div id="ref-vanlommel2010consciousness" class="csl-entry">
+LOMMEL, Pim van. <strong>Consciousness Beyond Life: The Science of the Near-Death Experience</strong>. New York: HarperOne, 2010.
+</div>
+<div id="ref-vanLommel2001" class="csl-entry">
+LOMMEL, Pim van; WEES, Ruud van; MEYERS, Vincent; GREYSON, Bruce. <a href="https://doi.org/10.1016/S0140-6736(01)07100-8">Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands</a>. <strong>The Lancet</strong>, v. 358, n. 9298, p. 2039–2045, 2001.
+</div>
+<div id="ref-luiz1944nosso" class="csl-entry">
+LUIZ, André. <strong>Nosso Lar (Our Home / Astral City)</strong>. Rio de Janeiro: FEB, 1944.
+</div>
+<div id="ref-luiz1945missionaries" class="csl-entry">
+LUIZ, André. <strong>Missionaries of the Light</strong>. Rio de Janeiro: FEB, 1945.
+</div>
+<div id="ref-luiz1946workers" class="csl-entry">
+LUIZ, André. <strong>Workers of the Life Eternal</strong>. Rio de Janeiro: FEB, 1946.
+</div>
+<div id="ref-luiz1949liberation" class="csl-entry">
+LUIZ, André. <strong>Liberation</strong>. Rio de Janeiro: FEB, 1949.
+</div>
+<div id="ref-luiz1955realms" class="csl-entry">
+LUIZ, André. <strong>In the Realms of Mediumship</strong>. Rio de Janeiro: FEB, 1955.
+</div>
+<div id="ref-luiz1957action" class="csl-entry">
+LUIZ, André. <strong>Action and Reaction</strong>. Rio de Janeiro: FEB, 1957.
+</div>
+<div id="ref-luiz1959evolution" class="csl-entry">
+LUIZ, André. <strong>Evolution in Two Worlds</strong>. Rio de Janeiro: FEB, 1959.
+</div>
+<div id="ref-luiz1960mechanics" class="csl-entry">
+LUIZ, André. <strong>The Mechanics of Mediumship</strong>. Rio de Janeiro: FEB, 1960.
+</div>
+<div id="ref-luiz1965disobsession" class="csl-entry">
+LUIZ, André. <strong>Disobsession</strong>. Rio de Janeiro: FEB, 1965.
+</div>
+<div id="ref-mccraty2015biofield" class="csl-entry">
+MCCRATY, Rollin; DEYHLE, Annette; CHILDRE, Doc. <a href="https://doi.org/10.7453/gahmj.2012.1.1.013">The global coherence initiative: Creating a coherent planetary standing wave</a>. <strong>Global Advances in Health and Medicine</strong>, v. 1, n. 1, p. 64–77, 2015.
+</div>
+<div id="ref-mcfadden2020electromagnetic" class="csl-entry">
+MCFADDEN, Johnjoe. <a href="https://doi.org/10.1093/nc/niaa016">Integrating information in the brain’s EM field: The <span>cemi</span> field theory of consciousness</a>. <strong>Neuroscience of Consciousness</strong>, v. 2020, n. 1, p. niaa016, 2020.
+</div>
+<div id="ref-moody1975life" class="csl-entry">
+MOODY, Raymond A. <strong>Life After Life</strong>. Covington, GA: Mockingbird Books, 1975.
+</div>
+<div id="ref-neimeyer2004psychological" class="csl-entry">
+NEIMEYER, Robert A.; WITTKOWSKI, Joachim; MOSER, Richard P. <a href="https://doi.org/10.1080/07481180490432324">Psychological research on death attitudes: An overview and evaluation</a>. <strong>Death Studies</strong>, v. 28, n. 4, p. 309–340, 2004.
+</div>
+<div id="ref-parnia2023aware2" class="csl-entry">
+PARNIA, Sam; POST, Stephen G.; LEE, Matthew T.; LYUBOMIRSKY, Sonja; AUFDERHEIDE, Tom P.; DEAKIN, Charles D.; GREYSON, Bruce; LONG, Jeffrey; GONZALES, Angela M.; HSIA, Renee Y. <a href="https://doi.org/10.1016/j.resuscitation.2023.109903"><span>AWAreness during REsuscitation – II</span>: A multi-center study of consciousness and awareness in cardiac arrest</a>. <strong>Resuscitation</strong>, v. 191, p. 109903, 2023.
+</div>
+<div id="ref-parnia2014aware" class="csl-entry">
+PARNIA, Sam; SPEARPOINT, Ken; VOS, Gabriele de; FENWICK, Peter; GOLDBERG, Diana; YANG, Jie; ZHU, Jiawen; BAKER, Katie; KILLINGBACK, Hayley; MCLEAN, Paula. <a href="https://doi.org/10.1016/j.resuscitation.2014.09.004"><span>AWARE</span>—<span>AW</span>areness during <span>RE</span>suscitation—A prospective study</a>. <strong>Resuscitation</strong>, v. 85, n. 12, p. 1799–1805, 2014.
+</div>
+<div id="ref-ring1980life" class="csl-entry">
+RING, Kenneth. <strong>Life at Death: A Scientific Investigation of the Near-Death Experience</strong>. New York: Coward, McCann &amp; Geoghegan, 1980.
+</div>
+<div id="ref-ross2016rapid" class="csl-entry">
+ROSS, Stephen; BOSSIS, Anthony; GUSS, Jeffrey; AGIN-LIEBES, Gabrielle; MALONE, Tara; COHEN, Barry; MENNENGA, Sarah E.; BELSER, Alexander; KALLIONTZI, Krystallia; BABB, James; SU, Zhe; CORBY, Patricia; SCHMIDT, Brian L. <a href="https://doi.org/10.1177/0269881116675512">Rapid and sustained symptom reduction following psilocybin treatment for anxiety and depression in patients with life-threatening cancer: A randomized controlled trial</a>. <strong>Journal of Psychopharmacology</strong>, v. 30, n. 12, p. 1165–1180, 2016.
+</div>
+<div id="ref-stevenson1966reincarnation" class="csl-entry">
+STEVENSON, Ian. <strong>Twenty Cases Suggestive of Reincarnation</strong>. Charlottesville, VA: University of Virginia Press, 1966.
+</div>
+<div id="ref-templer1970death" class="csl-entry">
+TEMPLER, Donald I. <a href="https://doi.org/10.1080/00221309.1970.9920634">The construction and validation of a Death Anxiety Scale</a>. <strong>The Journal of General Psychology</strong>, v. 82, n. 2, p. 165–177, 1970.
+</div>
+<div id="ref-tomer1996comprehensive" class="csl-entry">
+TOMER, Adrian; ELIASON, Grafton. <a href="https://doi.org/10.1080/07481189608252787">Toward a comprehensive model of death anxiety</a>. <strong>Death Studies</strong>, v. 20, n. 4, p. 343–365, 1996.
+</div>
+<div id="ref-yalom2008staring" class="csl-entry">
+YALOM, Irvin D. <strong>Staring at the Sun: Overcoming the Terror of Death</strong>. San Francisco: Jossey-Bass, 2008.
+</div>
+</div>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="apêndice-a-série-de-andré-luiz" class="level2 appendix unnumbered"><h2 class="anchored quarto-appendix-heading">Apêndice: A Série de André Luiz</h2><div class="quarto-appendix-contents">
+
+<div id="tbl-volumes" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-volumes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Tabela&nbsp;2: Os treze volumes da coleção <em>A Vida no Mundo Espiritual</em>, psicografados por Francisco Cândido Xavier (alguns volumes com Waldo Vieira). <em>Desobsessão</em> (1964), citada no texto, é uma obra relacionada que não integra a coleção.
+</figcaption>
+<div aria-describedby="tbl-volumes-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Ano</th>
+<th>Título</th>
+<th>Tema principal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1944</td>
+<td><em>Nosso Lar</em></td>
+<td>Chegada a uma colônia espiritual; sua organização social</td>
+</tr>
+<tr class="even">
+<td>1944</td>
+<td><em>Os Mensageiros</em></td>
+<td>Equipes de assistência junto a encarnados e desencarnados</td>
+</tr>
+<tr class="odd">
+<td>1945</td>
+<td><em>Missionários da Luz</em></td>
+<td>Planejamento da reencarnação; mediunidade</td>
+</tr>
+<tr class="even">
+<td>1946</td>
+<td><em>Obreiros da Vida Eterna</em></td>
+<td>O processo da desencarnação</td>
+</tr>
+<tr class="odd">
+<td>1947</td>
+<td><em>No Mundo Maior</em></td>
+<td>A mente, o cérebro e as esferas superiores</td>
+</tr>
+<tr class="even">
+<td>1949</td>
+<td><em>Libertação</em></td>
+<td>Trabalho de socorro em regiões de perturbação</td>
+</tr>
+<tr class="odd">
+<td>1954</td>
+<td><em>Entre a Terra e o Céu</em></td>
+<td>Relações entre os dois planos</td>
+</tr>
+<tr class="even">
+<td>1955</td>
+<td><em>Nos Domínios da Mediunidade</em></td>
+<td>A prática mediúnica observada do lado espiritual</td>
+</tr>
+<tr class="odd">
+<td>1957</td>
+<td><em>Ação e Reação</em></td>
+<td>Causa e efeito moral; livre-arbítrio</td>
+</tr>
+<tr class="even">
+<td>1958</td>
+<td><em>Evolução em Dois Mundos</em></td>
+<td>Anatomia do perispírito; saúde e doença</td>
+</tr>
+<tr class="odd">
+<td>1959</td>
+<td><em>Mecanismos da Mediunidade</em></td>
+<td>Mecanismos físicos e psicológicos da mediunidade</td>
+</tr>
+<tr class="even">
+<td>1963</td>
+<td><em>Sexo e Destino</em></td>
+<td>Sexualidade, laços afetivos e consequência moral</td>
+</tr>
+<tr class="odd">
+<td>1968</td>
+<td><em>E a Vida Continua…</em></td>
+<td>Adaptação de duas pessoas recém-desencarnadas</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+
+
+</div></section></div> ]]></description>
+  <category>Estudos Comparativos</category>
+  <guid>https://drfurtado.github.io/spiritist-essays/pt/posts/continuity-of-consciousness/</guid>
+  <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
