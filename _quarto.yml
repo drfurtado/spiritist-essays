@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  description: "The Spiritist Essays — Personal essays on Kardecian Spiritism in dialogue with contemporary science"
+  title: "The Spiritist Essays"
+  favicon: profile.jpg
+  search: true
+  navbar:
+    title: "The Spiritist Essays"
+    right:
+      - text: "Essays"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - icon: rss
+        href: index.xml
+  page-footer:
+    left: |
+      [Legal](legal.html)
+    center: |
+      *The Spiritist Essays* · Ovande Furtado Jr. <br>
+      Personal essays · Not peer reviewed
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - brand
+      dark:
+        - darkly
+        - brand
+    css: styles.css
+    toc: true
+    include-after-body: _babelquarto-fixes.html
+
+bibliography: references.bib
+csl: apa.csl
+
+babelquarto:
+  languagecodes:
+  - name: pt
+    text: "Português (BR)"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['pt']
+lang: en

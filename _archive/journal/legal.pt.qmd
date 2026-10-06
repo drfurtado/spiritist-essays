@@ -1,0 +1,31 @@
+---
+title: "Aviso Legal"
+page-layout: article
+toc: true
+toc-depth: 2
+lang: pt-BR
+---
+
+## 1. Aviso Legal e Isenção de Responsabilidade
+
+*Spiritist Inquiry* é uma revista acadêmica de acesso aberto. As opiniões expressas nos artigos publicados são de seus autores e não refletem necessariamente as dos editores, da revista ou de qualquer instituição à qual os autores estejam vinculados.
+
+A revista não endossa afirmações científicas, filosóficas, médicas ou doutrinárias específicas como fatos estabelecidos. A responsabilidade pela precisão dos dados, citações e interpretações é dos autores de cada artigo.
+
+*Spiritist Inquiry* isenta-se de responsabilidade por quaisquer danos decorrentes do uso ou interpretação dos materiais publicados. Nada aqui publicado constitui aconselhamento médico, psicológico, jurídico ou profissional.
+
+---
+
+## 2. Direitos Autorais e Licenciamento
+
+Os autores mantêm os direitos autorais de seus artigos.
+
+A menos que especificado de outra forma, os artigos são distribuídos sob uma licença Creative Commons Attribution (CC BY), que permite o uso, a distribuição e a reprodução, desde que os autores originais e a revista sejam devidamente citados.
+
+Material protegido por direitos autorais reproduzido (citações de Allan Kardec, André Luiz e outras obras citadas) é utilizado sob princípios de uso justo, para fins de comentário e crítica acadêmica, com citações completas fornecidas.
+
+---
+
+## 3. Independência
+
+*Spiritist Inquiry* não é afiliada a nenhuma instituição religiosa, organização política ou entidade comercial. Os manuscritos são avaliados por revisão por pares duplamente cega, exclusivamente por seu mérito acadêmico.

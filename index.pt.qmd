@@ -1,0 +1,24 @@
+---
+title: "The Spiritist Essays"
+subtitle: "O Espiritismo Kardecista em Diálogo com a Ciência Contemporânea"
+listing:
+  contents: "posts/*/index.qmd"
+  feed: true
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, description, categories, pdf]
+  field-display-names:
+    date: "Publicado"
+    title: "Título"
+    description: "Descrição"
+    categories: "Tema"
+    pdf: "Formatos"
+page-layout: full
+title-block-banner: true
+lang: pt-BR
+---
+
+*The Spiritist Essays* é uma coleção pessoal de ensaios de Ovande Furtado Jr. sobre o Espiritismo, conforme codificado por Allan Kardec, e seu diálogo com a pesquisa científica contemporânea — consciência, identidade, saúde, desenvolvimento moral e evolução humana. Os ensaios trazem citações completas, mas não são revisados por pares. [Saiba mais sobre este site](about.qmd).

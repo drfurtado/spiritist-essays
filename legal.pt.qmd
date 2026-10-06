@@ -1,0 +1,29 @@
+---
+title: "Aviso Legal"
+page-layout: article
+toc: true
+toc-depth: 2
+lang: pt-BR
+---
+
+## 1. Aviso Legal e Isenção de Responsabilidade
+
+*The Spiritist Essays* é um site pessoal e sem fins comerciais. As opiniões aqui expressas são minhas e não representam as do meu empregador nem de qualquer instituição à qual eu esteja vinculado.
+
+Os ensaios trazem citações completas, mas não são revisados por pares. Não apresentam afirmações científicas, filosóficas, médicas ou doutrinárias específicas como fatos estabelecidos, e recomenda-se ao leitor consultar diretamente as fontes citadas.
+
+Não me responsabilizo por quaisquer danos decorrentes do uso ou interpretação do material deste site. Nada aqui publicado constitui aconselhamento médico, psicológico, jurídico ou profissional.
+
+---
+
+## 2. Direitos Autorais e Licenciamento
+
+A menos que especificado de outra forma, os ensaios deste site são distribuídos sob uma licença Creative Commons Attribution (CC BY), que permite o uso, a distribuição e a reprodução, desde que o autor e este site sejam devidamente citados.
+
+Material protegido por direitos autorais reproduzido (citações de Allan Kardec, André Luiz e outras obras citadas) é utilizado sob princípios de uso justo, para fins de comentário e crítica acadêmica, com citações completas fornecidas.
+
+---
+
+## 3. Independência
+
+*The Spiritist Essays* não é afiliado a nenhuma instituição religiosa, organização política ou entidade comercial.

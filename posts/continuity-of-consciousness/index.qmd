@@ -1,0 +1,277 @@
+---
+title: "Continuity of Consciousness: The Perispirit, Disincarnation, and Death Anxiety in Spiritist Thought and Contemporary Science"
+description: "A conceptual integration essay arguing that the Spiritist model of the perispirit makes three linked claims (about the organization of the living body, the process of dying, and the psychology of death anxiety) and evaluating each against near-death experience research, bioelectricity, consciousness science, and the psychology of death attitudes."
+author:
+  - name: "Ovande Furtado Jr."
+    degrees: "Ph.D."
+date: "2026-10-05"
+pdf: "<a href='posts/continuity-of-consciousness/index.pdf' target='_blank' title='Download PDF'><i class='bi bi-file-earmark-pdf-fill' style='color:#dc3545; font-size: 1.2rem;'></i></a>&nbsp;<a href='posts/continuity-of-consciousness/' title='View HTML'><i class='bi bi-filetype-html' style='color:#0d6efd; font-size: 1.2rem;'></i></a>"
+categories: [Comparative Studies]
+keywords: [perispirit, disincarnation, death anxiety, terror management theory, near-death experience, bioelectricity, consciousness, André Luiz, Allan Kardec, Spiritism]
+abstract: |
+  Spiritist doctrine, as codified by Allan Kardec and elaborated in the
+  André Luiz series psychographed by Francisco Cândido Xavier, rests on a single
+  structural concept: the *perispirit*, a semi-material body said to organize
+  the physical organism during life and to carry personal consciousness through
+  death. This essay argues that the perispirit model commits Spiritism to three
+  distinct and separately assessable claims: (1) that biological form is
+  organized by a field prior to and partly independent of the matter it
+  organizes; (2) that dying is a graded transition whose subjective quality
+  depends on the dying person's beliefs, moral self-assessment, and attachment
+  to material life; and (3) that fear of death is chiefly a consequence of
+  uncertainty about survival and therefore diminishes as conviction of
+  continuity strengthens. Each claim is placed in dialogue with the relevant
+  peer-reviewed literature: bioelectric and biofield research for the first;
+  prospective near-death experience studies for the second; and terror
+  management theory, death-attitude measurement, and trials of psilocybin-assisted
+  and meaning-centered psychotherapy for the third. The evidence is uneven
+  across the three. The psychological claim finds substantial convergent
+  support; the claim about dying is consistent with, but not demonstrated by,
+  the near-death literature; and the biological claim rests on analogies whose
+  disanalogies are at least as important as their parallels. The essay closes
+  by identifying a prediction on which the Spiritist and terror management
+  accounts of death anxiety diverge, and proposes it as a priority for
+  interdisciplinary research.
+bibliography: ../../references.bib
+csl: ../../apa.csl
+number-sections: true
+format:
+  html: default
+  elsevier-pdf:
+    cite-method: citeproc
+    journal:
+      name: "The Spiritist Essays"
+      cite-key: tsc2026
+---
+
+## Introduction {#sec-intro}
+
+Most religious and philosophical traditions that affirm survival of bodily death leave the mechanism of survival unspecified. Spiritism is unusual in this respect. From its codification by Allan Kardec in 1857, it has proposed a concrete intermediary between the immaterial spirit and the physical body, which it calls the *perispirit*, and has attributed to that intermediary a definite set of functions: organizing the body during life, mediating between mind and matter, and carrying the person's identity and memory through death [@kardec1857spirits; @kardec1861mediums]. The psychographed series attributed to the Spirit André Luiz and received by the Brazilian medium Francisco Cândido Xavier between 1944 and 1968 elaborates this concept in considerable anatomical and procedural detail [@luiz1944nosso; @luiz1959evolution].
+
+Because the perispirit is given specific functions, the Spiritist account of survival is more exposed to empirical scrutiny than a bare assertion of immortality would be. This essay takes advantage of that exposure. Its central argument is that the perispirit model commits Spiritism to three distinct claims, each of which can be compared against an existing body of peer-reviewed research:
+
+1. **A biological claim.** Living form is organized by a field that precedes and shapes the matter it organizes, rather than arising from that matter.
+2. **A thanatological claim.** Dying is a graded transition rather than an instantaneous event, and its subjective character depends on the dying person's beliefs, moral self-assessment, and attachment to material life.
+3. **A psychological claim.** Fear of death is chiefly a consequence of uncertainty about survival and diminishes as an individual's conviction of personal continuity strengthens.
+
+These claims are logically related but evidentially independent. The third could be correct even if the first were false; the second could be consistent with the evidence even if the first two remain unconfirmed. Treating them separately allows a more precise assessment than the global question of whether Spiritism is "true," which this essay does not attempt to settle.
+
+The essay proceeds as follows. @sec-method describes the sources and the epistemic status assigned to them. @sec-perispirit sets out the perispirit model, and @sec-disincarnation its account of dying. @sec-psychology reviews the psychology of death anxiety, and @sec-diagnosis Kardec's competing diagnosis of it. @sec-evidence evaluates the three claims against the empirical literature, summarized in @tbl-claims. @sec-tmt identifies a prediction on which the Spiritist and terror management accounts diverge. The essay closes with practical implications (@sec-implications), limitations (@sec-limitations), and a research agenda (@sec-agenda).
+
+## Sources and Method {#sec-method}
+
+### Primary Spiritist sources
+
+Kardec's five foundational works are treated here as the normative statement of Spiritist doctrine. Three are cited directly: *The Spirits' Book* [@kardec1857spirits], *The Mediums' Book* [@kardec1861mediums], and *The Gospel According to Spiritism* [@kardec1864gospel], together with *Heaven and Hell* [@kardec1865heaven]. These texts are cited for what Spiritism *claims*, not as evidence that the claims are true.
+
+The André Luiz series (@tbl-volumes, Appendix) is treated as a secondary doctrinal elaboration. Within the Spiritist movement these books are widely regarded as authoritative, and the Federação Espírita Brasileira publishes them as a coherent collection. For the purposes of this essay, however, they are classed as *testimonial literature*: first-person descriptions, attributed to a discarnate author, of events that cannot be independently observed. Such texts can establish what the tradition holds and can generate hypotheses. They cannot by themselves corroborate those hypotheses, and no claim in this essay depends on assuming their veridicality.
+
+### Scientific sources
+
+Empirical literature was selected for its relevance to one of the three claims above and was limited, where possible, to peer-reviewed studies, meta-analyses, and scholarly monographs. Popular and advocacy literature is cited only where it is the original source of a finding, and is identified as such.
+
+### Analytic approach
+
+For each claim, the essay asks three questions. First, *convergence*: does independent research describe a phenomenon resembling the one Spiritism describes? Second, *disanalogy*: in what respects does that research differ from, or fail to support, the Spiritist description? Third, *discrimination*: does the evidence favor the Spiritist account over a rival account that does not posit survival? A convergence that a non-survivalist account explains equally well is recorded as consistent with the Spiritist claim but not as support for it.
+
+## The Perispirit: A Model of Continuity {#sec-perispirit}
+
+### Kardec's interface problem
+
+Kardec introduced the perispirit to answer a question that has troubled dualist philosophy since Descartes: how can an immaterial mind act on a material body? His answer was an intermediary substance, "semi-material," that envelops the spirit and links it to the organism [@kardec1857spirits]. Discussing somnambulism, the spirits consulted by Kardec describe this intermediary as the medium through which thought passes between beings, "like an electric wire" [@kardec1857spirits]. In *The Mediums' Book*, Kardec went further and identified the perispirit as the key to explaining mediumistic phenomena generally, writing that in knowledge of the perispirit lay the key to many problems then considered insoluble [@kardec1861mediums].
+
+Kardec's concept was deliberately minimal. He attributed to the perispirit a form, a capacity to transmit thought, and a degree of materiality that varies with the moral development of the spirit, but he did not describe its internal structure.
+
+### André Luiz's elaboration
+
+The André Luiz series supplies the structure Kardec left unspecified. Its central claim reverses the direction of explanation usual in biology: the perispirit is not a copy of the physical body but its template. In *Evolution in Two Worlds*, the spiritual body is described as "a living organization to which material cells mold themselves," and the text adds that "it is the physical body that reflects it" [@luiz1959evolution]. Elsewhere the physical body is said to be "maintained by the spiritual body, to whose molds it adjusts" [@luiz1945missionaries].
+
+Three further features of the model matter for what follows:
+
+- **Composition.** The perispirit is described as a "vehicle of electrical cells," an "electromagnetic field, in which thought vibrates in a closed circuit," and as "extremely porous and plastic" [@luiz1959evolution].
+- **Organization.** It contains vital centers, functionally analogous to endocrine glands and nerve plexuses, of which the *coronary center* in the head is described as the point at which mind governs body [@luiz1959evolution].
+- **Responsiveness to mind.** Because it is plastic, the perispirit is altered by habitual thought and moral conduct. Moral transgression is said to produce "a certain lesion" in it, and illness is described as a disharmony that "survives in the perispirit" and can be transmitted to the physical organism [@luiz1959evolution; @luiz1957action].
+
+The model also describes a luminous field surrounding each person, the *psychic aura* or "vital halo," whose coloration is said to reflect the person's prevailing thoughts and moral state [@luiz1960mechanics; @luiz1955realms]. This essay does not evaluate the aura claim separately; it depends on the same assumptions as the perispirit model and has no independent empirical literature of comparable quality.
+
+### What the model commits Spiritism to
+
+Stripped of its descriptive detail, the model makes the biological claim stated in @sec-intro: organization precedes and governs matter. It also implies that the organizing structure can persist when the matter it organized has decayed. That second implication is the bridge to the Spiritist account of death.
+
+## Disincarnation as a Graded Transition {#sec-disincarnation}
+
+### The mechanics of separation
+
+The André Luiz series describes death, termed *disincarnation*, as a process rather than an event. In *Workers of Eternal Life*, the author observes spiritual assistants releasing the connections between perispirit and body in sequence, first at the abdominal region associated with vegetative function, then at the thoracic region associated with emotion, and finally at the head, where a "silver cord" is the last link to be severed [@luiz1946workers]. The final link is located elsewhere at the brain's rhomboid fossa [@luiz1965disobsession]. After separation, the perispirit is said to undergo a reorganization the author calls "spiritual histogenesis," the counterpart of the physical body's decomposition [@luiz1959evolution].
+
+### Preparedness and the experience of dying
+
+The feature of this account most relevant to empirical comparison is its claim of *variance*. The series insists that the subjective experience of dying is not uniform and that it varies with three factors: prior beliefs about survival, moral self-assessment, and degree of attachment to material life [@luiz1946workers]. Those who die with firm materialist convictions or unresolved guilt are described as passing through a confused and frightening transition, sometimes unable for a period to recognize their own condition. Those who die with settled conviction of survival and a reasonably examined moral life are described as passing through it with comparative serenity [@luiz1946workers; @luiz1959evolution]. Fear and resistance on the part of the dying person are said to complicate an otherwise gradual and painless process.
+
+The series frames this suffering as self-generated rather than imposed. Its account of the *Umbral*, a region of disturbance inhabited by spirits who remain in states of confusion or moral disharmony, follows the same logic: the condition is described as a consequence of the person's own mental state, not as a judicial sentence, and as temporary, ending when the person sincerely seeks change [@luiz1944nosso; @luiz1949liberation]. The more elaborate descriptions of post-mortem social organization in the series, including the spiritual colony *Nosso Lar* and its institutions [@luiz1944nosso], fall outside the scope of this essay because they generate no claims testable from the incarnate side.
+
+### What the account predicts
+
+Whatever weight a reader assigns to this testimony, its internal logic yields a prediction: psychological preparedness should affect the subjective experience of dying and its immediate aftermath. The nearest available empirical proxy for that experience is the near-death experience, examined in @sec-evidence-nde. A related prediction concerns the living. If unpreparedness makes dying worse, then fear of death in the living should track the same variables of belief, guilt, and attachment. That brings the Spiritist account into contact with the psychology of death anxiety.
+
+## Death Anxiety in Contemporary Psychology {#sec-psychology}
+
+### Denial and terror management
+
+The modern psychological study of death anxiety owes much to Ernest Becker's *The Denial of Death*, which argued that awareness of mortality generates a terror so basic that much of human culture can be read as a defense against it [@becker1973denial]. Social psychologists later formalized Becker's thesis as *terror management theory* (TMT), which proposes two buffers against death anxiety: a cultural worldview that confers meaning and the promise of literal or symbolic immortality, and self-esteem, understood as the sense of meeting that worldview's standards [@burke2010two].
+
+TMT's central experimental paradigm, *mortality salience* induction, asks participants to contemplate their own death before measuring attitudes and behavior. A meta-analysis of 277 experiments reported a moderate and reliable effect: after mortality salience, participants defended their worldviews more strongly and judged those who violated them more harshly [@burke2010two]. That conclusion has since been qualified. A large multi-site replication, Many Labs 4, failed to reproduce the basic mortality salience effect, either with or without the involvement of the original authors [@klein2022manylabs]. The status of the paradigm is therefore less settled than the earlier meta-analysis suggested, a point that bears on the comparison in @sec-tmt.
+
+TMT does not claim that death anxiety can be eliminated. On its account, anxiety is buffered and deflected while the underlying terror remains, liable to resurface when the buffers fail.
+
+### Existential psychotherapy
+
+A clinical tradition associated with Irvin Yalom takes a different stance. Rather than strengthening defenses against awareness of death, existential psychotherapy invites patients to confront mortality directly. Yalom reported that patients compelled by diagnosis or loss to confront death often experienced what he termed an "awakening experience," marked by reduced anxiety and a reordering of priorities once the initial shock had been processed [@yalom2008staring]. The observation that confrontation can reduce anxiety is not easy to accommodate within a model that treats avoidance as the primary defense.
+
+### Measurement and the role of certainty
+
+Templer's Death Anxiety Scale, a 15-item self-report instrument published in 1970, made death anxiety measurable and therefore correlatable with religiosity, age, health, and intervention [@templer1970death]. The research that followed has produced one finding of particular relevance here. Reviews report that the relationship between religiosity and death anxiety is inconsistent across studies and, in a number of them, curvilinear: those with uncertain or weakly held beliefs report more anxiety than either the confidently religious or the confidently non-religious [@neimeyer2004psychological]. Tomer and Eliason's comprehensive model formalizes this pattern. It holds that death anxiety depends less on the content of a person's beliefs than on their coherence and confidence, and identifies regret over the past as a second, independent contributor [@tomer1996comprehensive].
+
+If confidence matters more than content, then any account that promises to increase confidence, by whatever means, is in principle relevant to the reduction of death anxiety. Spiritism presents itself as such an account.
+
+## Kardec's Diagnosis {#sec-diagnosis}
+
+Kardec treated fear of death as a practical problem with identifiable causes. In *The Spirits' Book*, he attributed it to two sources: an instinct of self-preservation that is natural and largely involuntary, and a second, correctable cause, namely insufficient conviction that anything survives the body, sometimes compounded by fear of arbitrary punishment inherited from earlier theologies [@kardec1857spirits]. The spirits consulted by Kardec hold that the second component diminishes as understanding of the soul's continuity deepens. Death is presented as a transformation, the setting aside of a body that has ceased to be useful, which Kardec repeatedly compares to discarding a worn garment [@kardec1857spirits].
+
+*The Gospel According to Spiritism* extends the argument to grief. Ordinary grief and death anxiety, Kardec argues, are disproportionate because they rest on the premise that bodily death is personal annihilation. Correcting that premise through rational conviction rather than faith is said to transform both: the sorrow of separation remains, but the terror of non-existence does not [@kardec1864gospel]. In *Heaven and Hell*, Kardec applies the diagnosis to people raised in traditions of eternal punishment, for whom religious belief can intensify rather than relieve fear of death, and presents his account of progressive, self-determined moral consequence partly as a remedy for that fear [@kardec1865heaven].
+
+Two features of this diagnosis anticipate the empirical findings reviewed in @sec-psychology. First, Kardec places the decisive variable in the *certainty* of one's beliefs about what follows death, as Tomer and Eliason later did [@tomer1996comprehensive]. Second, he insists that the relevant certainty must rest on reason and evidence rather than on authority or habit. That second feature is what separates the Spiritist account from TMT, and it is developed in @sec-tmt.
+
+## Convergent and Divergent Evidence {#sec-evidence}
+
+This section evaluates the three claims in the order in which the evidence bears on them most directly. @tbl-claims summarizes the results.
+
+### Near-death experiences {#sec-evidence-nde}
+
+Prospective studies of cardiac arrest survivors provide the closest empirical access to the experience of dying. Van Lommel and colleagues interviewed 344 survivors in ten Dutch hospitals; 62 (18%) reported a near-death experience (NDE), and longitudinal follow-up found that experiencers showed lasting changes in attitude, including reduced fear of death, that were not observed in survivors without an NDE [@vanLommel2001; @vanlommel2010consciousness]. Earlier retrospective work by Ring had identified reduced fear of death as one of the most consistent aftereffects of NDEs [@ring1980life], and Moody's foundational, though methodologically informal, collection of accounts reported experiencers describing their new attitude as "knowing" rather than "believing" [@moody1975life]. Greyson's prospective cardiac-care study provides an independent estimate of incidence and a standardized measure of NDE content [@greyson2003nde].
+
+The multi-center AWARE studies attempted to test claims of perception during cardiac arrest directly. AWARE reported one case of apparently verified auditory and visual awareness during resuscitation, but no experiencer viewed the hidden visual targets placed in resuscitation areas [@parnia2014aware]. AWARE-II recorded brain activity during cardiopulmonary resuscitation and found that some patients showed electroencephalographic activity approaching normal levels well into resuscitation [@parnia2023aware2]. This finding cuts against the common assertion that NDEs occur during a period of no measurable brain activity. It does not show that such experiences are produced by that activity, but it weakens any inference to survival that depends on the brain having been inactive. Holden's review of veridical perception in NDEs concludes that a substantial proportion of reported perceptions are accurate, while noting the methodological limits of largely retrospective cases [@holden2009veridical].
+
+*Bearing on the claims.* For the thanatological claim, the NDE literature offers convergence: experiencers commonly report a separation from the body and a continuity of awareness that resemble the Spiritist description. It offers little discrimination, however, because the dying brain has not been excluded as the source of these experiences. For the psychological claim, the evidence is stronger. Reduced fear of death after an NDE is one of the best-replicated aftereffects in the field, and experiencers attribute it to direct conviction rather than to adopted belief, as Kardec's diagnosis would predict.
+
+### Psilocybin-assisted and meaning-centered psychotherapy
+
+Two randomized controlled trials gave patients with life-threatening cancer a single high dose of psilocybin under supportive conditions [@griffiths2016psilocybin; @ross2016rapid]. Both reported substantial and durable reductions in depression and anxiety, including existential and death-related distress, sustained at six-month follow-up. In both, the degree of improvement was associated with the intensity of the mystical-type experience the drug occasioned, measured by standardized questionnaires, rather than with dose alone.
+
+Breitbart's meaning-centered psychotherapy, developed for patients with advanced cancer, reaches a related endpoint by non-pharmacological means. In a randomized trial it produced greater improvements in spiritual well-being and sense of meaning, and greater reductions in hopelessness and desire for hastened death, than supportive psychotherapy [@breitbart2015meaning].
+
+*Bearing on the claims.* These findings bear only on the psychological claim, and they support it in a specific way. Three very different routes (an NDE, a pharmacologically occasioned mystical experience, and a structured therapy aimed at meaning) arrive at a similar psychological endpoint. What they share is not a mechanism but a function: each strengthens the person's sense that their existence is not exhausted by bodily death or is embedded in something larger. This is the variable that both Kardec's diagnosis and the Tomer–Eliason model identify as decisive [@kardec1857spirits; @tomer1996comprehensive]. The psilocybin findings also show that such conviction can be produced without any change in the evidence available to the person, which is relevant to the disagreement examined in @sec-tmt.
+
+### Bioelectricity and biofields
+
+The biological claim finds its closest scientific parallels in research on bioelectric fields. Harold Saxton Burr, working at Yale over several decades, reported that voltage gradients in developing amphibian eggs anticipated the later axis of the nervous system, and proposed that "fields of life" act as organizing templates for biological form [@burr1972blueprint]. Burr's broader claims, including diagnostic applications, were not widely adopted. More recent work by Levin and colleagues has, however, established that endogenous bioelectric gradients carry instructive information in embryonic development, regeneration, and tumor suppression, and that altering these gradients can redirect large-scale anatomy [@levin2021bioelectriccode]. Research on the electromagnetic field of the heart, conducted principally at the HeartMath Institute, proposes that physiological fields contribute to regulation between body systems [@mccraty2015biofield].
+
+*Bearing on the claims.* The convergence is real: in both the Spiritist model and contemporary developmental bioelectricity, a pattern that is not reducible to the genome contributes to determining anatomical form. The disanalogies are equally important. The bioelectric patterns Levin describes are generated by ion channels in ordinary cell membranes; they are measurable with standard instruments; and they cease when the cells that generate them die. They are a property *of* living matter, not a structure that precedes it and survives it. The biofield literature, for its part, comes largely from a single research program and requires independent replication. This evidence therefore shows that "field-first" thinking about biological form is scientifically respectable. It does not support the existence of a field that persists after death, which is the feature of the perispirit on which the other two claims depend.
+
+### Electromagnetic theories of consciousness
+
+McFadden's conscious electromagnetic information (cemi) field theory proposes that consciousness is identical with information encoded in the brain's electromagnetic field, which would explain how distributed neural activity is bound into unified experience [@mcfadden2020electromagnetic]. Kardec's 1857 analogy of thought transmitted "like an electric wire" [@kardec1857spirits] and André Luiz's description of the perispirit as an electromagnetic field "in which thought vibrates" [@luiz1959evolution] invite comparison with this theory.
+
+*Bearing on the claims.* The comparison should be made with care. In cemi theory the field is generated by neuronal firing and has no existence apart from it; McFadden presents the theory as a fully physicalist account of consciousness. On its own terms, the theory predicts that consciousness ends when brain activity ends. It therefore offers a terminological parallel to the Spiritist description, not support for survival.
+
+### Reincarnation research
+
+Ian Stevenson's investigations of young children who make spontaneous statements suggestive of memories of a previous life, beginning with *Twenty Cases Suggestive of Reincarnation* and continued over several decades, represent the most systematic empirical program bearing on personal continuity [@stevenson1966reincarnation]. Stevenson documented cases in which children's statements were checked against the life of an identified deceased person, and his case reports remain the reference point for the field.
+
+*Bearing on the claims.* Stevenson's work bears on continuity in general rather than on the perispirit specifically. The Spiritist account of reincarnation does attribute a role to the perispirit in shaping the new body [@luiz1945missionaries], and Stevenson's reports of birthmarks corresponding to wounds of a previous personality are sometimes cited in that connection. However, the evidential weight of the case material remains disputed, and alternative explanations, including cultural shaping of children's statements and investigator influence, have not been excluded to the satisfaction of most researchers.
+
+### Summary
+
+| Spiritist claim | Closest empirical literature | Convergence | Principal disanalogy or limit | Assessment |
+|---|---|---|---|---|
+| Biological: a field organizes form prior to matter | Developmental bioelectricity; biofield research | Non-genetic patterns help determine anatomy | Known fields are produced by living cells and cease at death | Analogy only |
+| Thanatological: dying is graded and shaped by preparedness | Prospective NDE studies | Reports of separation and continued awareness | Brain activity during cardiac arrest not excluded | Consistent, not discriminating |
+| Psychological: fear of death tracks certainty about survival | Death-attitude research; NDE aftereffects; psilocybin and meaning-centered trials | Anxiety falls as conviction of continuity or meaning rises | Same pattern predicted in part by non-survivalist accounts | Substantial support |
+
+: Summary of the three claims entailed by the perispirit model and the state of the evidence for each. {#tbl-claims}
+
+## Terror Management and Spiritist Accounts: A Testable Disagreement {#sec-tmt}
+
+The convergence documented above should not hide a genuine disagreement about mechanism. TMT treats worldview conviction as a psychological buffer whose effectiveness does not depend on whether the worldview is true; on this view, Spiritism reduces death anxiety simply because it is a coherent, meaning-conferring worldview [@burke2010two]. The Spiritist account makes a stronger claim. Death anxiety, it holds, recedes most durably when conviction rests on evidence, because conviction so grounded is less vulnerable to the doubt that Tomer and Eliason identify as the driver of unresolved anxiety [@kardec1857spirits; @tomer1996comprehensive]. Kardec's insistence that Spiritism be approached through reason rather than faith is, on this reading, central to its therapeutic claim rather than incidental to it.
+
+The disagreement yields a prediction that could in principle be tested. TMT predicts that any sufficiently coherent worldview should buffer death anxiety about equally once strength of conviction is held constant. The Spiritist account predicts that conviction grounded in apparently direct experience (an NDE, an experience during mediumistic practice, or a reasoned study of the evidence) should be more durable under stress than conviction of equal stated strength acquired through cultural transmission. A longitudinal comparison of matched groups of confident materialists, confident conventional believers, and believers whose conviction rests on direct experience would address the question. No such dataset yet exists.
+
+Two complications deserve mention. First, the psilocybin trials show that a strong sense of continuity can be induced without any new evidence about survival [@griffiths2016psilocybin; @ross2016rapid]. A reduction in anxiety following "experiential" conviction therefore cannot by itself show that the conviction is accurate. The Spiritist prediction concerns the durability of conviction, not its truth. Second, the replication difficulties of the mortality salience paradigm [@klein2022manylabs] mean that the rival account is itself less secure than it once appeared, which makes direct comparative data more valuable rather than less.
+
+A second point of divergence concerns moral self-assessment. In TMT, self-esteem protects against anxiety largely regardless of the moral content of the standard being met [@burke2010two]. The Spiritist literature holds instead that unresolved guilt is an independent cause of both death anxiety and a difficult transition [@kardec1857spirits; @luiz1946workers]. Tomer and Eliason's identification of past-related regret as a separate contributor to death anxiety [@tomer1996comprehensive] is closer to the Spiritist position on this point than to TMT's.
+
+## Implications for Clinical and Spiritual Assistance {#sec-implications}
+
+Three practical implications follow from this analysis, none of which depends on resolving the metaphysical question.
+
+First, because death anxiety tracks the coherence of a person's beliefs more closely than their religious affiliation [@neimeyer2004psychological; @tomer1996comprehensive], clinicians and spiritual assistance workers should not assume that nominal religious belief is protective. A patient who is nominally religious but privately doubtful may be at greater risk of severe anxiety than a settled believer or a settled non-believer. Helping patients articulate and examine their own beliefs is likely to be more useful than reassurance.
+
+Second, the agreement between Yalom's clinical observations and the André Luiz account of preparedness [@yalom2008staring; @luiz1946workers] supports palliative-care practice that encourages supported engagement with mortality rather than avoidance. Spiritual assistance as practiced in Spiritist centers is consistent with this practice to the extent that it emphasizes reasoned engagement with death rather than avoidance or consolation alone.
+
+Third, the psilocybin and meaning-centered trials indicate that interventions which durably strengthen a patient's sense of continuity or meaning are an evidence-based response to existential distress in terminal illness [@griffiths2016psilocybin; @ross2016rapid; @breitbart2015meaning]. Clinicians can draw on these findings without taking a position on the metaphysical status of the experiences involved.
+
+## Limitations {#sec-limitations}
+
+Several limitations constrain the conclusions of this essay.
+
+*Testimonial sources.* The thanatological claim rests on the André Luiz series, whose descriptions cannot be checked independently. The essay has used this literature to identify predictions, but the predictions are only as specific as the testimony.
+
+*Selection of literature.* The essay is a conceptual integration, not a systematic review. Its scientific sources were chosen for relevance to the three claims, and a systematic search might have identified contrary findings, particularly in the death-attitude and NDE literatures.
+
+*Asymmetry of evidence.* Most of the support identified here falls on the psychological claim, which is the claim least specific to Spiritism. Many worldviews that promise continuity or meaning would be expected to reduce death anxiety. The finding is compatible with Spiritism but does not single it out.
+
+*Analogy and identity.* Several of the parallels discussed in @sec-evidence (the perispirit and the bioelectric field, the perispirit and the cemi field) are analogies between descriptions. In each case the scientific construct lacks the property, persistence beyond death, that makes the Spiritist construct relevant to survival.
+
+*Author position.* The author is a practicing Spiritist. Readers should weigh the essay's interpretive judgments accordingly.
+
+## Research Agenda {#sec-agenda}
+
+The analysis suggests four directions for research that Spiritist scholarship is well placed to pursue.
+
+1. **The durability prediction.** A longitudinal study comparing the stability of death anxiety under stress among groups matched for strength of conviction but differing in its source would directly test the disagreement identified in @sec-tmt.
+2. **Preparedness and the dying.** Prospective palliative-care studies could examine whether pre-mortem measures of belief coherence, regret, and attachment predict the distress of patients in their final days, as both the André Luiz account and the Tomer–Eliason model suggest.
+3. **Near-death phenomenology and prior belief.** If preparedness shapes the experience of dying, prior beliefs measured before cardiac arrest should predict the emotional tone of subsequent NDEs. Existing prospective designs could incorporate such measures at modest cost.
+4. **Textual analysis of the André Luiz corpus.** Claims of internal consistency across the thirteen volumes are often made but have not, to the author's knowledge, been tested by formal stylometric or content analysis. Such a study would establish what the corpus actually asserts and how consistently.
+
+## Conclusion {#sec-conclusion}
+
+The perispirit is the concept that turns the Spiritist belief in survival into a model with specific consequences. This essay has separated those consequences into three claims and examined each against current research. The psychological claim, that fear of death recedes as conviction of continuity strengthens, finds substantial support across death-attitude research, near-death aftereffects, and clinical trials, and Kardec stated it in 1857, more than a century before the empirical study of death attitudes existed. The thanatological claim, that dying is a graded transition shaped by preparedness, is consistent with near-death research but not established by it. The biological claim, that a field organizes the body and survives it, has scientific analogues that share the first property but not the second.
+
+That uneven result does not settle whether consciousness survives death, and it was not meant to. It does show that the Spiritist account can be broken into parts that empirical research can address, and it identifies at least one prediction on which Spiritism and its main psychological rival disagree. Testing such predictions is a more productive form of engagement between Spiritism and science than either assertion or dismissal.
+
+## Declarations {.unnumbered}
+
+**Status.** Personal essay. This essay has not been peer reviewed.
+
+**Conflict of interest.** The author is a practicing Spiritist. No other competing interests are declared.
+
+**Funding.** None.
+
+**Data availability.** Not applicable; no new data were generated.
+
+**Provenance.** This article consolidates and revises three earlier essays by the author previously published on this site and now withdrawn: *Fear of Death: A Spiritist and Psychological Integration*, *Life in the Spiritual World: An Introduction to André Luiz's 13-Book Collection*, and *The Spiritual Body: What Science and Spiritism Reveal About the Perispirit*.
+
+## References {.unnumbered}
+
+::: {#refs}
+:::
+
+## Appendix: The André Luiz Series {.appendix .unnumbered}
+
+| Year | Title (English) | Original title | Principal theme |
+|---|---|---|---|
+| 1944 | *Our Home* | *Nosso Lar* | Arrival in a spiritual colony; its social organization |
+| 1944 | *The Messengers* | *Os Mensageiros* | Assistance teams working with incarnate and discarnate spirits |
+| 1945 | *Missionaries of Light* | *Missionários da Luz* | Planning of reincarnation; mediumship |
+| 1946 | *Workers of Eternal Life* | *Obreiros da Vida Eterna* | The process of disincarnation |
+| 1947 | *In the Greater World* | *No Mundo Maior* | The mind, the brain, and higher spheres |
+| 1949 | *Liberation* | *Libertação* | Rescue work in regions of disturbance |
+| 1954 | *Between Earth and Heaven* | *Entre a Terra e o Céu* | Relations between the two planes |
+| 1955 | *In the Realms of Mediumship* | *Nos Domínios da Mediunidade* | Mediumistic practice observed from the spiritual side |
+| 1957 | *Action and Reaction* | *Ação e Reação* | Moral cause and effect; free will |
+| 1958 | *Evolution in Two Worlds* | *Evolução em Dois Mundos* | Anatomy of the perispirit; health and illness |
+| 1959 | *The Mechanics of Mediumship* | *Mecanismos da Mediunidade* | Physical and psychological mechanisms of mediumship |
+| 1963 | *Sex and Destiny* | *Sexo e Destino* | Sexuality, affective bonds, and moral consequence |
+| 1968 | *And Life Goes On* | *E a Vida Continua...* | Post-mortem adaptation of two newly discarnate persons |
+
+: The thirteen volumes of the *Life in the Spiritual World* series, psychographed by Francisco Cândido Xavier (some volumes with Waldo Vieira). *Disobsession* (1964), cited in the text, is a related work outside the series. {#tbl-volumes}

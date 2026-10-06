@@ -1,0 +1,123 @@
+<style>
+/* Reset babelquarto's default 'solid button' style to a subtle nav-link style */
+.babelquarto-languages-button, 
+button.babelquarto-languages-button {
+  background: none !important;
+  border: none !important;
+  color: #6495ED !important; /* Elegant blue */
+  font-weight: 600 !important;
+  box-shadow: none !important;
+  padding: 0.5rem !important;
+  text-transform: none !important;
+  font-size: 0.95rem !important;
+}
+
+.babelquarto-languages-button:hover, 
+.babelquarto-languages-button:focus {
+  color: #4A76C0 !important;
+  text-decoration: underline !important;
+  background: none !important;
+}
+
+/* Ensure the globe icon has a little space */
+.babelquarto-languages-button .bi-globe2 {
+  margin-right: 0.4rem;
+}
+</style>
+
+<script>
+/**
+ * The Spiritist Essays — Multilingual Navbar Fixes
+ * 
+ * Objectives:
+ * 1. Standardize language switcher (elegant link style instead of solid button).
+ * 2. Inject switcher on pages where babelquarto fails to (e.g. English index).
+ * 3. Translate English navbar items to Portuguese on PT pages.
+ */
+(function () {
+  var path = window.location.pathname || '/';
+  
+  // Detection for PT pages
+  var isPT = /\/pt\//i.test(path) || 
+             /\.pt\.html$/i.test(path) || 
+             (document.documentElement.lang && document.documentElement.lang.toLowerCase().startsWith('pt'));
+
+  // 1. Fix/Inject Language Switcher
+  var injectSwitcher = function() {
+    var navList = document.querySelector('.navbar-nav.navbar-nav-scroll.ms-auto') || 
+                  document.querySelector('.navbar-nav.ms-auto');
+    
+    if (!navList) return;
+
+    // Check if it already exists (from babelquarto)
+    var existingAgent = document.querySelector('.babelquarto-languages-button');
+    if (existingAgent) {
+      // It exists - our CSS (above) will handle the styling.
+      // We just ensure it has the globe icon if missing.
+      if (!existingAgent.querySelector('.bi-globe2')) {
+        existingAgent.innerHTML = '<i class="bi bi-globe2"></i> ' + existingAgent.innerHTML;
+      }
+      return;
+    }
+
+    // It is missing (common on English index) - Inject it.
+    var ptHref, enHref;
+    if (isPT) {
+      enHref = path.replace(/^\/pt\//i, '/').replace(/\.pt\.html$/i, '.html');
+      if (!enHref.startsWith('/')) enHref = '/' + enHref;
+    } else {
+      ptHref = path.replace(/^\//, '/pt/');
+      ptHref = ptHref.replace(/\/pt\/pt\//i, '/pt/');
+    }
+
+    var li = document.createElement('li');
+    li.className = 'nav-item dropdown';
+    li.id = 'languages-links-parent-manual'; // Unique ID to avoid confusion
+    
+    var currentLabel = isPT ? 'Português (BR)' : 'English';
+    var targetLabel  = isPT ? 'English' : 'Português (BR)';
+    var targetUrl    = isPT ? enHref : ptHref;
+    
+    li.innerHTML = 
+      '<a class="nav-link dropdown-toggle babelquarto-languages-button" href="#" id="languages-button" role="button" data-bs-toggle="dropdown" aria-expanded="false">' +
+        '<i class="bi bi-globe2"></i> ' + currentLabel +
+      '</a>' +
+      '<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="languages-button" id="languages-links">' +
+        '<li><a class="dropdown-item" href="' + targetUrl + '" id="language-link-' + (isPT ? 'en' : 'pt') + '">' + targetLabel + '</a></li>' +
+      '</ul>';
+    
+    navList.insertBefore(li, navList.firstChild);
+  };
+
+  // 2. Navbar Text Translation (for PT pages)
+  var applyTranslations = function() {
+    if (!isPT) return;
+    var translations = {
+      'Archive':          'Arquivo',
+      'About':            'Sobre'
+    };
+
+    document.querySelectorAll('.navbar-nav .menu-text').forEach(function (el) {
+      var original = el.textContent.trim();
+      var translated = translations[original];
+      if (translated) {
+        el.textContent = translated;
+      }
+    });
+  };
+
+  // Run everything
+  injectSwitcher();
+  applyTranslations();
+  
+  // Re-run for dynamic Quarto elements
+  window.addEventListener('DOMContentLoaded', function() {
+    injectSwitcher();
+    applyTranslations();
+  });
+  setTimeout(function() {
+    injectSwitcher();
+    applyTranslations();
+  }, 500);
+})();
+</script>

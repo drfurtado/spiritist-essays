@@ -1,0 +1,30 @@
+---
+title: "Legal & Disclaimer"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+## 1. Legal Notice and Disclaimer
+
+*Spiritist Inquiry* is an open-access academic journal. The views and opinions expressed in published articles are those of their authors and do not necessarily reflect those of the editors, the journal, or any institution with which the authors are affiliated.
+
+The journal does not endorse specific scientific, philosophical, medical, or doctrinal claims as settled fact. Responsibility for the accuracy of data, citations, and interpretations rests with the authors of each article.
+
+*Spiritist Inquiry* disclaims liability for any damages arising from the use or interpretation of published materials. Nothing published here constitutes medical, psychological, legal, or professional advice.
+
+---
+
+## 2. Copyright and Licensing
+
+Authors retain copyright of their articles.
+
+Unless otherwise specified, articles are distributed under a Creative Commons Attribution license (CC BY), which permits use, distribution, and reproduction provided the original authors and the journal are properly cited.
+
+Reproduced copyrighted material (quotations from Allan Kardec, André Luiz, and other cited works) is used under fair use / fair dealing principles for scholarly commentary and criticism, with full citations provided.
+
+---
+
+## 3. Independence
+
+*Spiritist Inquiry* is not affiliated with any religious institution, political organization, or commercial entity. Submissions are evaluated through double-blind peer review on scholarly merit alone.

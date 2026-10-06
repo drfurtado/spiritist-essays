@@ -1,0 +1,23 @@
+---
+title: "The Spiritist Essays"
+subtitle: "Kardecian Spiritism in Dialogue with Contemporary Science"
+listing:
+  contents: "posts/*/index.qmd"
+  feed: true
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, description, categories, pdf]
+  field-display-names:
+    date: "Published"
+    title: "Title"
+    description: "Summary"
+    categories: "Topic"
+    pdf: "Formats"
+page-layout: full
+title-block-banner: true
+---
+
+*The Spiritist Essays* is a personal collection of essays by Ovande Furtado Jr. on Spiritism, as codified by Allan Kardec, and its dialogue with contemporary scientific research — consciousness, identity, health, moral development, and human evolution. The essays are fully cited but not peer reviewed. [More about this site](about.qmd).

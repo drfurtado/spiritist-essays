@@ -1,0 +1,15 @@
+/.quarto/
+**/*.quarto_ipynb
+
+# Build output (deploy separately)
+/_site/
+
+# babeldown / DeepL translation scratch files
+*.spl
+
+# Local tooling
+node_modules/
+.env
+.Rhistory
+.DS_Store
+/.claude/

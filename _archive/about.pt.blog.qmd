@@ -1,0 +1,33 @@
+---
+title: "Sobre"
+page-layout: article
+toc: true
+toc-depth: 2
+lang: pt-BR
+---
+
+## Sobre o Autor
+
+**Ovande Furtado Jr., Ph.D.**
+
+Sou Professor Associado no Departamento de Cinesiologia da California State University, Northridge, onde leciono desde 2013. Tenho doutorado (2009) e mestrado (2004) em Comportamento Motor pela University of Pittsburgh, e graduação em Educação Física pela Universidade Federal do Paraná, em Curitiba, cidade onde nasci. Antes da CSUN, fui Professor Associado na Eastern Illinois University (2007–2013).
+
+Minha pesquisa acadêmica concentra-se no desenvolvimento motor humano: validação de modelos observacionais para avaliação psicomotora, as relações entre competência motora, competência motora percebida, nível de atividade física e composição corporal e, mais recentemente, a aplicação de inteligência artificial para automatizar o reconhecimento e a avaliação de habilidades motoras fundamentais. Nada disso é do que trata este site.
+
+## Sobre o Kardec.ONE
+
+*Kardec.ONE* é um projeto pessoal e sem fins lucrativos — um espaço onde escrevo, em meu tempo livre e inteiramente à parte do meu trabalho acadêmico, sobre o Espiritismo codificado por Allan Kardec e seu diálogo com a ciência contemporânea.
+
+Há muito tempo me interessa a pergunta de como seria uma leitura rigorosa e engajada com a evidência do Espiritismo kardecista — uma leitura que leve a sério as afirmações centrais do Espiritismo como hipóteses, sem resvalar para a escrita devocional ou confessional, e que leve igualmente a sério a pesquisa contemporânea em estudos da consciência, neurociência, psicologia e pesquisas sobre sobrevivência. É esse o projeto aqui: posts que colocam fontes primárias kardecistas e psicografadas (Allan Kardec, André Luiz) em diálogo direto com a produção acadêmica revisada por pares, em busca de convergências genuínas, tensões reais e questões em aberto — não de apologética.
+
+Temas aos quais volto com frequência:
+
+* Consciência e identidade pessoal
+* O corpo espiritual (perispírito) e modelos de corporeidade
+* A sobrevivência da morte e a continuidade da consciência
+* Experiências de quase morte e outras experiências anômalas
+* Desenvolvimento moral e progresso ético
+* Filosofia da mente e teorias de aspecto duplo
+* Pesquisa clínica, psicológica ou neurocientífica relevante para as afirmações espíritas
+
+Isto não é produção acadêmica revisada por pares, e não pretende ser. É um blog de exploração contínua, escrita com o máximo de cuidado e honestidade de que sou capaz, com citações completas para que você possa verificar as fontes por conta própria e discordar de mim.

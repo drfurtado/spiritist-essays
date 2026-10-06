@@ -1,85 +1,81 @@
 ---
-title: Sobre a revista
+title: "Sobre"
 page-layout: article
 toc: true
 toc-depth: 2
+lang: pt-BR
 ---
 
-## Título e escopo
+## Sobre o Autor
 
-**Título abreviado:**“Spiritist Inquiry”
+**Ovande Furtado Jr., Ph.D.**
 
-**Título completo:**Spiritist Inquiry: Revista Interdisciplinar de Espiritismo e Ciência Contemporânea
+Sou Professor no Departamento de Cinesiologia da California State University, Northridge, onde leciono desde 2013. Tenho doutorado (2009) e mestrado (2004) em Comportamento Motor pela University of Pittsburgh, e graduação em Educação Física pela Universidade Federal do Paraná, em Curitiba, cidade onde nasci. Antes da CSUN, fui Professor Associado na Eastern Illinois University (2007–2013).
 
-*Investigação Espírita*é uma revista acadêmica revisada por pares e de acesso aberto, dedicada ao estudo rigoroso do Espiritismo, conforme codificado por Allan Kardec, e seu diálogo com a pesquisa científica contemporânea. A revista oferece um fórum acadêmico para estudos interdisciplinares que examinam as convergências e tensões entre a doutrina espírita e a investigação moderna.
+Minha pesquisa acadêmica concentra-se no desenvolvimento motor humano: validação de modelos observacionais para avaliação psicomotora, as relações entre competência motora, competência motora percebida, nível de atividade física e composição corporal e, mais recentemente, a aplicação de inteligência artificial para automatizar o reconhecimento e a avaliação de habilidades motoras fundamentais. Nada disso é do que trata este site.
 
-Com base no corpus kardecista, a revista promove a investigação disciplinada, em vez de escritos confessionais ou devocionais. Seu objetivo é cultivar o rigor intelectual, a clareza metodológica e o diálogo respeitoso entre disciplinas relacionadas à consciência, identidade, saúde, desenvolvimento moral e evolução humana.
+## Sobre The Spiritist Essays
 
-***
+*The Spiritist Essays* é um projeto pessoal e sem fins lucrativos — um espaço onde escrevo, em meu tempo livre e inteiramente à parte do meu trabalho acadêmico, sobre o Espiritismo codificado por Allan Kardec e seu diálogo com a ciência contemporânea.
 
-## Missão
+Há muito tempo me interessa a pergunta de como seria uma leitura rigorosa e engajada com a evidência do Espiritismo kardecista — uma leitura que leve a sério as afirmações centrais do Espiritismo como hipóteses, sem resvalar para a escrita devocional ou confessional, e que leve igualmente a sério a pesquisa contemporânea em estudos da consciência, neurociência, psicologia e pesquisas sobre sobrevivência. É esse o projeto aqui: ensaios que colocam fontes primárias kardecistas e psicografadas (Allan Kardec, André Luiz) em diálogo direto com a produção acadêmica revisada por pares, em busca de convergências genuínas, tensões reais e questões em aberto — não de apologética.
 
-*A Spiritist Inquiry*promove o diálogo acadêmico entre o Espiritismo Kardecista e a ciência contemporânea. A revista apoia trabalhos filosóficos, empíricos e teóricos que abordam criticamente a doutrina espírita, juntamente com pesquisas revisadas por pares em áreas como psicologia, neurociência, filosofia da mente, ciência médica e estudos sobre a sobrevivência.
+Temas aos quais volto com frequência:
 
-Ao promover a colaboração interdisciplinar e a precisão analítica, a revista busca contribuir de forma significativa para as discussões em andamento sobre consciência, corpo espiritual, identidade pessoal, progresso moral e continuidade da vida.
+* Consciência e identidade pessoal
+* O corpo espiritual (perispírito) e modelos de corporeidade
+* A sobrevivência da morte e a continuidade da consciência
+* Experiências de quase morte e outras experiências anômalas
+* Desenvolvimento moral e progresso ético
+* Filosofia da mente e teorias de aspecto duplo
+* Pesquisa clínica, psicológica ou neurocientífica relevante para as afirmações espíritas
 
-***
+Isto não é produção acadêmica revisada por pares, e não pretende ser. É um blog de exploração contínua, escrita com o máximo de cuidado e honestidade de que sou capaz, com citações completas para que você possa verificar as fontes por conta própria e discordar de mim.
 
-## Objetivos e escopo
+## O que o Espiritismo é — e o que não é
 
-A revista publica pesquisas originais, estudos teóricos e análises críticas que exploram a relação entre o pensamento espírita e as perspectivas científicas contemporâneas. As áreas de interesse incluem, entre outras:
+O Espiritismo é muito mal compreendido, até mesmo no Brasil, onde tem o maior número de adeptos. Como tudo neste site depende do sentido dessa palavra, vale a pena explicá-lo com clareza, nos termos do próprio Kardec. As traduções do francês são minhas.
 
-- Estudos da consciência
-- Filosofia da mente
-- Psicologia e psiquiatria
-- Neurociência
-- Ciências médicas e da saúde
-- Pesquisa sobre sobrevivência e experiências de quase morte
-- Pesquisa sobre experiências anômalas
-- Ética e desenvolvimento moral
-- Evolução humana e antropologia espiritual
-- História e filosofia da ciência
+### Uma palavra nova para uma coisa nova
 
-Os artigos submetidos devem basear-se em fontes espíritas primárias da tradição kardecista e interagir de forma substancial com a literatura científica revisada por pares. As contribuições podem apoiar, refinar, reinterpretar ou avaliar criticamente proposições doutrinárias, desde que cumpram os padrões de rigor acadêmico.
+A palavra foi criada por Kardec. *O Livro dos Espíritos* (1857) começa com o princípio de que "para coisas novas são necessárias palavras novas". A palavra *espiritualismo*, explicou Kardec, já tinha um sentido estabelecido: qualquer posição contrária ao materialismo. É possível ser espiritualista nesse sentido sem acreditar que os Espíritos existem ou se comunicam conosco. Por isso ele introduziu os termos *espírita* e *espiritismo* para designar uma doutrina cujo objeto é justamente a relação entre o mundo material e o mundo dos Espíritos [@kardec1857spirits].
 
-A revista não publica trabalhos devocionais, proselitistas ou puramente confessionais. Todos os manuscritos são submetidos a revisão por pares duplamente cega.
+### A definição de Kardec
 
-***
+Em *O que é o Espiritismo* (1859), Kardec o definiu assim:
 
-## Tipos de artigos
+> "O Espiritismo é, ao mesmo tempo, uma ciência de observação e uma doutrina filosófica. Como ciência prática, consiste nas relações que se podem estabelecer com os Espíritos; como doutrina filosófica, compreende todas as consequências morais que decorrem dessas relações." [@kardec1859whatis]
 
-### Pesquisa original
+De modo mais formal, chamou-o de "uma ciência que trata da natureza, da origem e da destinação dos Espíritos, e das suas relações com o mundo corporal" [@kardec1859whatis].
 
-Os artigos de pesquisa original apresentam investigações empíricas que envolvem a teoria espírita em diálogo com métodos científicos contemporâneos. Os estudos podem empregar metodologias quantitativas, qualitativas, históricas ou mistas e devem demonstrar rigor metodológico, transparência e envolvimento substantivo com fontes kardecis e estudos revisados por pares.
+Três termos se repetem ao longo das obras fundamentais, e cada um tem um sentido preciso:
 
-### Análise teórica
+* **Ciência.** Kardec apresentou o Espiritismo como a investigação de uma classe de fenômenos, as comunicações mediúnicas, estudados por observação, comparação e concordância entre fontes independentes. Sustentava também que ele deve corrigir-se quando a evidência o exigir: o Espiritismo, escreveu, "jamais será ultrapassado" pelo progresso, porque, "se novas descobertas lhe demonstrassem que está em erro sobre um ponto, ele se modificaria nesse ponto" [@kardec1868genesis].
+* **Filosofia.** A folha de rosto de *O Livro dos Espíritos* o apresenta como *filosofia espiritualista*. Seu objeto são as perguntas que a filosofia sempre fez (Deus, a alma, a finalidade da vida, a lei moral, o que vem depois da morte), respondidas a partir das comunicações que Kardec reuniu e comparou [@kardec1857spirits].
+* **Consequências religiosas.** Uma filosofia que trata de Deus, da alma e da lei moral não pode deixar de tocar a religião. Kardec escreveu que o Espiritismo "tem consequências morais, como todas as ciências filosóficas", e que conduz "essencialmente às ideias religiosas" [@kardec1859whatis]. *O Evangelho segundo o Espiritismo* desenvolve esse lado moral por meio dos ensinamentos de Jesus, lidos como ética e não como dogma, e sustenta que a ciência e a religião, quando cada uma deixar de tratar o próprio ponto de vista como exclusivo, estão destinadas a se encontrar [@kardec1864gospel].
 
-Os artigos de Análise Teórica desenvolvem, refinam ou avaliam criticamente estruturas conceituais dentro do Espiritismo e disciplinas científicas ou filosóficas relacionadas. Essas contribuições esclarecem conceitos-chave, examinam a coerência e propõem modelos que promovem o avanço do conhecimento acadêmico.
+No movimento espírita brasileiro, isso costuma ser resumido como o "tríplice aspecto" do Espiritismo: ciência, filosofia e religião. O resumo é útil, mas é uma fórmula posterior, e não do próprio Kardec, que usou a palavra *religião* com bastante cuidado.
 
-### Revisão Sistemática
+### O Espiritismo é uma religião?
 
-As revisões sistemáticas sintetizam pesquisas existentes revisadas por pares, utilizando procedimentos transparentes e replicáveis. Esses artigos avaliam o estado atual das evidências, identificam lacunas e avaliam como as descobertas se relacionam com as proposições espíritas.
+Kardec respondeu a essa pergunta diretamente em um discurso proferido em Paris em 1º de novembro de 1868 e publicado na *Revue Spirite* [@kardec1868revue]. Sua resposta foi sim e não.
 
-### Ensaios de integração conceitual
+No sentido *filosófico*, isto é, um laço que une as pessoas em torno de convicções morais comuns, como quando falamos da "religião da amizade" ou da "religião da família", ele afirmou que "o Espiritismo é uma religião, e disso nos orgulhamos".
 
-Os ensaios de integração conceitual trazem a doutrina espírita para um diálogo estruturado com pesquisas contemporâneas ou debates filosóficos. Em vez de apresentar novos dados empíricos, esses ensaios sintetizam perspectivas para esclarecer convergências, tensões e direções para futuras investigações.
+Mas explicou por que, ainda assim, havia declarado que o Espiritismo *não* é uma religião: "há uma só palavra para exprimir duas ideias diferentes", e, no uso comum, "a palavra religião é inseparável da de culto". Nesse sentido corrente, o Espiritismo "não tem nenhum dos caracteres de uma religião": não tem templos, nem sacerdócio, nem cerimônias.
 
-### Resenhas acadêmicas
+É nesse sentido que uso a palavra neste site. O Espiritismo é uma filosofia fundamentada na observação, com consequências morais e religiosas. Não é uma religião no sentido institucional. Kardec insistia também em que a fé que dele resulta deve prestar contas à razão: "Fé inabalável só o é a que pode encarar a razão face a face, em todas as épocas da humanidade" [@kardec1864gospel].
 
-As resenhas acadêmicas avaliam criticamente publicações acadêmicas recentes relevantes para o Espiritismo e disciplinas relacionadas. As resenhas avaliam a contribuição teórica, o rigor metodológico e a relevância para o escopo da revista.
+### O que o Espiritismo não é
 
-***
+* **Não é uma igreja.** Não tem clero, sacramentos, rituais, vestes especiais, altares, imagens sagradas nem cerimônias obrigatórias [@kardec1868revue]. Os centros espíritas costumam reunir-se para estudo, palestras e trabalho de caridade.
+* **Não é o Espiritualismo anglo-americano.** O *Spiritualism*, surgido nos Estados Unidos no fim da década de 1840, compartilha o interesse pela mediunidade, mas desenvolveu-se de forma independente e, em sua maior parte, não adotou a reencarnação, que é central na doutrina de Kardec. Kardec escolheu outra palavra justamente para evitar essa confusão [@kardec1857spirits].
+* **Não é Umbanda, Candomblé nem outra religião afro-brasileira.** No Brasil, a palavra *espírita* às vezes é usada de forma ampla para abranger essas tradições. Elas têm histórias, ritos e práticas próprios, como oferendas, iniciações e a devoção aos orixás, que não fazem parte da doutrina de Kardec. Trata-se de uma distinção, não de um julgamento sobre essas tradições.
+* **Não é adivinhação, magia nem ocultismo.** O Espiritismo não oferece adivinhação, feitiços, amuletos nem consultas pagas. Seu princípio, tirado do Evangelho, é "dai gratuitamente o que gratuitamente recebestes": a mediunidade não se vende [@kardec1864gospel].
+* **Não exige conversão.** Nas palavras de Kardec, o Espiritismo "não se impõe a ninguém" [@kardec1859whatis]. Pessoas de qualquer religião, ou de nenhuma, podem estudá-lo e aceitar ou rejeitar suas conclusões.
+* **Não é um sistema fechado.** Pelo critério do próprio Kardec, uma afirmação espírita que contrarie evidências bem estabelecidas deve ceder [@kardec1868genesis]. Esse critério é a razão de ser deste site.
 
-## Modelo de revisão por pares e publicação
+## Referências {.unnumbered}
 
-*A Spiritist Inquiry*opera sob um processo de revisão por pares duplamente cega. Cada manuscrito é avaliado por pelo menos dois revisores independentes com experiência em áreas relevantes. As submissões são avaliadas quanto a:
-
-- Envolvimento com fontes kardecianas
-- Envolvimento com estudos contemporâneos
-- Coerência lógica
-- Solidez metodológica
-- Contribuição para o diálogo interdisciplinar
-
-A revista é publicada online em formato de acesso aberto. A frequência inicial de publicação é semestral, com planos de expansão à medida que o volume de submissões crescer.
-
-
+::: {#refs}
+:::

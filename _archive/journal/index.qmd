@@ -1,0 +1,23 @@
+---
+title: "Spiritist Inquiry"
+subtitle: "Interdisciplinary Journal of Spiritism and Contemporary Science"
+listing:
+  contents: "posts/*/index.qmd"
+  feed: true
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, description, categories, pdf]
+  field-display-names:
+    date: "Published"
+    title: "Title"
+    description: "Summary"
+    categories: "Topic"
+    pdf: "Formats"
+page-layout: full
+title-block-banner: true
+---
+
+*Spiritist Inquiry* is an open-access, peer-reviewed academic journal devoted to the rigorous study of Spiritism, as codified by Allan Kardec, and its dialogue with contemporary scientific research — consciousness, identity, health, moral development, and human evolution.

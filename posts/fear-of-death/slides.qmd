@@ -1,0 +1,526 @@
+---
+title: "Fear of Death"
+subtitle: "A Spiritist and Psychological Integration"
+author: "Ovande Furtado Jr."
+draft: true
+date: "2026-07-23"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    progress: true
+    transition: fade
+    incremental: true
+    embed-resources: true
+    smaller: true
+    css: slides.css
+---
+
+## Roadmap
+
+- The puzzle: why does fear of death vary so much between people?
+- Two very different explanations — one from psychology, one from Spiritism
+- What the research actually shows
+- Where they agree, and where they genuinely disagree
+- What it means for how we care for the dying
+
+::: {.notes}
+Good evening, everyone. What I want to do today is walk through something a little unusual — not new data, but a synthesis. I'm going to show you that two literatures which have never once cited each other — mainstream psychology on one side, and Spiritist literature going back to the 1850s on the other — are independently converging on the same answer to a very old question: why does fear of death vary so much from person to person?
+
+So here's the shape of the talk. First, the puzzle itself. Then two very different explanations — one from psychology, one from Spiritism. Then what the actual research shows. Then where these two traditions agree, and where they still genuinely disagree. And finally, what this means practically for how we care for people who are dying.
+
+Pace check: target ~1:30 elapsed.
+:::
+
+## The Puzzle
+
+::: {.columns}
+::: {.column width="55%"}
+Death is the one danger we're all guaranteed to face — so this fear isn't really "irrational," the way most fears are.
+
+And yet:
+
+- Some people face the end calmly, at peace
+- Others are consumed by dread for decades
+- The intensity varies enormously across people, cultures, beliefs [@neimeyer2004psychological]
+
+::: {.callout-important .fragment}
+A simple survival instinct can't explain that much variation.
+:::
+:::
+::: {.column width="45%"}
+![](images/puzzle-tree.png){fig-alt="A tree whose branches each show a different emotional state, symbolizing varying reactions to mortality" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Let's start with the puzzle. Death is the one danger every single one of us is guaranteed to face — so in a strange way, fearing it isn't irrational the way most fears are. It's the one fear that's always justified.
+
+And yet look at how differently people actually experience it. Some face the end calmly, at peace with it. Others are consumed by dread for decades, with no illness or diagnosis anywhere in sight. The intensity of this fear varies enormously — across people, across cultures, across belief systems.
+
+Think about that for a second: a simple survival instinct can't explain that much variation. If this were just biology doing its job, we'd expect everyone to be roughly equally afraid. We're not. Something else is going on.
+
+Pace check: target ~3:00 elapsed.
+:::
+
+---
+
+## Two Rival Answers
+
+::: {.columns}
+::: {.column width="50%"}
+**Psychology**
+
+Fear of death is *coped with*, not solved — cushioned by our shared beliefs and our sense of self-worth, against a question we can't otherwise answer [@becker1973denial].
+:::
+::: {.column width="50%"}
+**Spiritism**
+
+Fear of death is a *sign of something fixable* — not knowing what really happens to us — curable by genuinely coming to believe, through reason, that we survive [@kardec1857spirits].
+:::
+:::
+
+> Psychology cushions a question with no answer. Spiritism *has* an answer.
+
+::: {.notes}
+So here are two very different answers to that puzzle. Psychology's answer: fear of death is coped with, not solved. It's cushioned — by the beliefs we share with others, and by our own sense of self-worth — against a question we can't otherwise answer.
+
+Spiritism's answer is much bolder: fear of death is a sign of something fixable — specifically, not knowing what really happens to us — and it's curable, if we can genuinely come to believe, through reason, that we survive.
+
+So notice the contrast. Psychology cushions a question with no answer. Spiritism claims the question has an answer. I'm not going to adjudicate that metaphysical claim today. What I want to ask is a narrower, empirical question: what actually reduces fear of death in living people?
+
+Pace check: target ~4:30 elapsed.
+:::
+
+---
+
+## Why This Matters
+
+- Not just an issue for the dying — measurable in healthy adults of every age [@neimeyer2004psychological]
+- Linked to chronic anxiety, health-related worry, and grief that never eases
+- Directly relevant to end-of-life care, grief counseling, and spiritual support
+
+Spiritist communities have long supported the dying and the grieving — but Spiritist writers have rarely engaged directly with what psychologists have actually found.
+
+::: {.notes}
+Why does this matter, beyond intellectual curiosity? Because this isn't just an issue for people who are actively dying — it shows up in healthy adults of every age. It's linked to chronic anxiety, to health-related worry, and to grief that never really eases. And it's directly relevant to end-of-life care, to grief counseling, and to spiritual support more broadly.
+
+Here's the gap I want to point out: Spiritist communities have long supported the dying and the grieving — this is not new territory for them. But Spiritist writers have rarely engaged directly with what psychologists have actually found. That's part of what this talk is trying to fix.
+
+Pace check: target ~6:00 elapsed.
+:::
+
+---
+
+## Becker: The Denial of Death
+
+::: {.columns}
+::: {.column width="55%"}
+Ernest Becker [-@becker1973denial] (Pulitzer Prize):
+
+> Awareness of mortality generates a terror so fundamental that most of human culture — religion, heroism, the pursuit of legacy — is an elaborate defensive apparatus built to repress it.
+
+Becker's claim: civilization isn't just shaped by this fear along the way — it's built around managing it.
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/ernest-becker.png){fig-alt="Portrait illustration of Ernest Becker" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Let's start on the psychology side, with the founding text. In 1973, the anthropologist Ernest Becker published The Denial of Death — it won the Pulitzer Prize. His claim, in his own words: awareness of mortality generates a terror so fundamental that most of human culture — religion, heroism, the pursuit of legacy — is an elaborate defensive apparatus built to repress it.
+
+So Becker's claim is bigger than "this fear shapes culture along the way." His claim is that civilization is built around managing it. Everything from religion to heroism to the drive to leave a legacy — on his account, it's all downstream of this one terror.
+
+Image prompt: A dignified editorial portrait-style illustration of Ernest Becker (American cultural anthropologist, 1924–1974) — painterly, not photorealistic, warm sepia and muted tones, thoughtful/serious expression, plain uncluttered background, suitable as a small side-panel portrait.
+
+Pace check: target ~7:30 elapsed.
+:::
+
+---
+
+## How We Shield Ourselves From Fear
+
+*(psychologists call this Terror Management Theory)*
+
+::: {.columns}
+::: {.column width="55%"}
+Tested in decades of experiments by psychologists Greenberg, Solomon & Pyszczynski. Two things protect us from the fear of death:
+
+1. **Shared beliefs** — a sense of meaning, order, and some promise of living on
+2. **Self-worth** — feeling like we're living up to what we believe matters
+
+In experiment after experiment, simply reminding people they will die makes them cling more tightly to their own group, judge others more harshly, and defend their beliefs more fiercely.
+
+This has been found again and again, in more than 200 studies [@burke2010two].
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/tmt-shield.png){fig-alt="A translucent symbolic shield protecting a figure from a looming shadow" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Becker's ideas were largely speculative when he wrote them — more philosophy than experiment. But decades later, three psychologists — Greenberg, Solomon, and Pyszczynski — actually tested them. They call it Terror Management Theory. And what they found is that two things protect us from the fear of death: shared beliefs — a sense of meaning, order, some promise of living on — and self-worth — feeling like we're living up to what we believe matters.
+
+Here's the experimental signature: in study after study, simply reminding people that they're going to die makes them cling more tightly to their own group, judge outsiders more harshly, and defend their beliefs more fiercely. And this isn't a one-off finding — it's been replicated in more than two hundred studies.
+
+But hold onto this: TMT never claims the terror goes away. Only that it's managed, deflected, kept at bay. Underneath, it's still there.
+
+Image prompt: A translucent shield made of overlapping symbolic fragments — a small house, a flag, a laurel wreath, linked family silhouettes — held up between a small human figure and a large soft shadow looming behind it. The shield glows faintly but the shadow is still visible through it, implying the fear is deflected, not erased. Soft painterly digital illustration, muted warm palette, no text.
+
+Pace check: target ~9:30 elapsed.
+:::
+
+---
+
+## Yalom: Confront, Don't Avoid
+
+::: {.columns}
+::: {.column width="55%"}
+Irvin Yalom's [-@yalom2008staring] clinical work with terminally ill patients — a counterintuitive finding:
+
+- Patients forced by diagnosis to confront death directly
+- Often reported **reduced** anxiety, not increased
+- A reordering of priorities toward what mattered most
+
+Facing it, not avoiding it, led to better outcomes.
+
+::: {.callout-important .fragment}
+Hard to explain if fear of death is only about shielding ourselves from it.
+:::
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/irvin-yalom.png){fig-alt="Portrait illustration of Irvin Yalom" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Here's the first crack in that picture. Irvin Yalom, an existential psychiatrist, worked clinically with terminally ill patients — and found something counterintuitive. Patients who were forced by their diagnosis to confront death directly often reported reduced anxiety, not increased. Facing it seemed to reorder their priorities toward what actually mattered to them.
+
+So facing death, not avoiding it, led to better outcomes. And that's hard to explain if fear of death is only about shielding ourselves from it — if defense and avoidance were the whole story, direct confrontation should make things worse. Clinically, it doesn't. Hold onto this thread — it's going to resurface almost exactly when we get to a Spiritist account of the dying process itself.
+
+Image prompt: A dignified editorial portrait-style illustration of Irvin Yalom (American existential psychiatrist) — painterly, not photorealistic, warm muted tones, thoughtful and empathetic expression, plain uncluttered background, suitable as a small side-panel portrait.
+
+Pace check: target ~11:00 elapsed.
+:::
+
+---
+
+## Measuring the Fear
+
+In 1970, a psychologist named Templer [-@templer1970death] built a simple questionnaire to measure fear of death — it's still used today.
+
+For the first time, fear of death could be measured, not just theorized about.
+
+**Here's what it found:**
+
+- People who were unsure or inconsistent in their beliefs felt the **most** fear
+- Confident believers and confident non-believers both felt the **least** — about equally
+
+::: {.callout-important .fragment}
+It's not WHAT you believe that matters most. It's how sure you are.
+:::
+
+::: {.notes}
+In 1970, a psychologist named Templer built a simple questionnaire to actually measure fear of death — and it's still in use today. For the first time, this wasn't just theory — it could be measured.
+
+And here's what it found. People who were unsure or inconsistent in their beliefs felt the most fear. Confident believers and confident non-believers both felt the least — about equally.
+
+Let that sit for a second, because it's the single most important empirical finding in this whole talk: it's not WHAT you believe that matters most. It's how sure you are. Two people with the exact same religious affiliation can have very different death anxiety, depending on how settled their beliefs actually are underneath that label.
+
+Pace check: target ~13:00 elapsed.
+:::
+
+---
+
+## Kardec: Death as Transformation
+
+::: {.columns}
+::: {.column width="55%"}
+*The Spirits' Book* [@kardec1857spirits] treats fear of death as a problem we can understand and fix — not just an unavoidable fact of life.
+
+Two sources of dread:
+
+1. A basic survival instinct — largely automatic
+2. Not being sure we survive death, or a leftover fear of harsh judgment passed down from older religious teachings
+
+Death reframed as **transformation** — laying aside a body that's become useless, like shedding a worn-out garment.
+
+Suffering comes from **unpreparedness**, not from dying itself.
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/allan-kardec.png){fig-alt="Portrait illustration of Allan Kardec" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Now let's turn to the other side. In 1857, Allan Kardec published The Spirits' Book, and he treats fear of death very differently — as a problem we can actually understand and fix, not just an unavoidable fact of life. He identifies two sources of dread: a basic survival instinct, which is largely automatic — and not being sure we survive death, or a leftover fear of harsh judgment inherited from older religious teachings.
+
+Kardec reframes death as transformation — laying aside a body that's become useless, the way we'd shed a worn-out garment. And his core claim is this: suffering comes from unpreparedness, not from dying itself. Notice how close that already sounds to the empirical finding we just saw.
+
+Image prompt: A dignified editorial portrait-style illustration of Allan Kardec (French educator, 1804–1869, founder of Spiritism), 19th-century attire, painterly, not photorealistic, warm sepia tones, calm and composed expression, plain uncluttered background, suitable as a small side-panel portrait.
+
+Pace check: target ~14:30 elapsed.
+:::
+
+---
+
+## "No One Dies"
+
+*The Gospel According to Spiritism* [@kardec1864gospel] — grief and fear of death are out of proportion because they rest on one false belief: **that when the body stops, we stop too**.
+
+Correct that belief, and fear *changes*, rather than disappearing entirely. Love and loss still hurt — but the terror of simply ceasing to exist falls away.
+
+*Heaven and Hell* [@kardec1865heaven] takes this further: being raised on eternal punishment makes death **more** frightening, not less. Kardec's alternative — that we shape our own moral progress, step by step — was meant, in part, to heal that fear.
+
+::: {.notes}
+In The Gospel According to Spiritism, Kardec goes further: grief and fear of death are out of proportion because they rest on one false belief — that when the body stops, we stop too. Correct that belief, and fear changes, rather than disappearing entirely. Love and loss still hurt — he's not offering stoic detachment here — but the terror of simply ceasing to exist falls away.
+
+And in Heaven and Hell, he takes this even further: being raised on eternal punishment makes death more frightening, not less. His alternative — that we shape our own moral progress, step by step — was meant, in part, to heal that fear.
+
+Pace check: target ~16:00 elapsed.
+:::
+
+---
+
+## André Luiz: The Trauma of the Unprepared
+
+::: {.columns}
+::: {.column width="55%"}
+A first-hand account of dying, said to be dictated from beyond through the medium Chico Xavier [@luiz1944nosso].
+
+- **People who didn't believe anything survives, or who carried guilt** → a disorienting, frightening passing — confusion that can linger
+- **People with settled belief and an examined life** → a calmer passing, helped by others on the other side
+
+This suffering is described as coming from **within** — not because dying itself is harsh, but because the person wasn't ready for what came next.
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/chico-xavier.png){fig-alt="Portrait illustration of Chico Xavier writing at a desk" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Here's a first-hand account of dying itself — said to be dictated from beyond through the medium Chico Xavier, under the name André Luiz. The pattern it describes: people who didn't believe anything survives, or who carried guilt, had a disorienting, frightening passing — confusion that could linger. People with settled belief and an examined life had a calmer passing, helped by others on the other side.
+
+And the suffering, in this account, comes from within — not because dying itself is harsh, but because the person wasn't ready for what came next. Whatever evidentiary weight you personally give this kind of account, notice the variables it flags — prior belief, guilt, self-examination — track almost exactly what the psychological literature independently found.
+
+Image prompt: An editorial portrait-style illustration of Francisco (Chico) Xavier, the Brazilian medium, seated at a plain wooden desk, pen in hand over paper, eyes closed or downcast in quiet concentration, soft warm side-lighting. Painterly, not photorealistic, muted tones, plain uncluttered background.
+
+Pace check: target ~17:30 elapsed.
+:::
+
+---
+
+## Dying as a Gradual Process
+
+*(Spiritism calls this disincarnation)*
+
+::: {.columns}
+::: {.column width="55%"}
+Death is described as something that **unfolds gradually**, not an instant event — the body's connection to what Spiritism calls the perispirit, or spiritual body, loosens step by step, ordinarily without pain [@kardec1861mediums].
+
+Fear and resistance can make this harder — leading to confusion that's treated as real, but usually temporary and treatable with help.
+
+**A prediction we can actually test:** how ready someone feels should shape what dying feels like.
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/gradual-dissolution.png){fig-alt="A human silhouette gradually dissolving into soft light" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Spiritism calls this process disincarnation, and it describes death as something that unfolds gradually — not an instant event. The body's connection to what Spiritism calls the perispirit, or spiritual body, loosens step by step, ordinarily without pain. Fear and resistance, though, can make this harder — leading to confusion that's treated as real, but usually temporary and treatable with help.
+
+And here's the part I actually care about: this gives us a prediction we can test. How ready someone feels should shape what dying feels like. That's no longer just a claim — it's testable. And it turns out we have the closest thing to a natural experiment for it.
+
+Image prompt: An abstract conceptual illustration of a human silhouette gradually dissolving into soft points of light that drift upward and outward, set against a gentle gradient background transitioning from dusk blue to warm gold — conveying a slow, peaceful loosening rather than an abrupt cutoff. Soft painterly digital illustration, no text, no distressing imagery.
+
+Pace check: target ~18:30 elapsed.
+:::
+
+---
+
+## Near-Death Experiences: Fear Fades
+
+::: {.columns}
+::: {.column width="55%"}
+Large medical studies followed people whose hearts had stopped and who were later revived. They weren't designed to test fear of death directly — but one finding kept showing up:
+
+**People who had a near-death experience show a lasting drop in their fear of death**, compared to survivors who didn't have one.
+
+- Part of a bigger shift in values — caring more about love and learning, less about possessions
+- A real, lasting change tracked over eight years — not just relief at having survived [@vanLommel2001]
+- People describe it as **"knowing," not "believing"** [@moody1975life]
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/nde-tunnel.png){fig-alt="A softly lit tunnel opening onto warm golden light" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Large medical studies followed people whose hearts had actually stopped, and who were later revived. These studies weren't designed to test fear of death directly — but one finding kept showing up anyway: people who had a near-death experience show a lasting drop in their fear of death, compared to survivors who didn't have one.
+
+This is part of a bigger shift in values — caring more about love and learning, less about possessions. And this isn't a fleeting post-crisis mood lift — it's a real change tracked over eight years. People consistently describe it as "knowing," not "believing." That distinction is the whole ballgame.
+
+Image prompt: A calm, inviting conceptual illustration of a soft-lit tunnel or corridor viewed from within, opening onto a warm expanding golden light at its far end — no clinical or medical framing, no human figures needed, painterly digital illustration, muted warm palette, no text.
+
+Pace check: target ~20:30 elapsed.
+:::
+
+---
+
+## A Surprising Path: Psychedelic Therapy
+
+::: {.columns}
+::: {.column width="55%"}
+Two carefully controlled studies, at NYU and Johns Hopkins, gave cancer patients a single strong dose of psilocybin — the compound found in certain mushrooms [@ross2016rapid; @griffiths2016psilocybin].
+
+- A real, lasting drop in fear of death — still present six months later
+- Worked better than typical anti-anxiety or antidepressant medication
+- The improvement tracked with **how powerful and spiritual the experience felt** to them, not the dose itself
+
+A separate approach — talk therapy built around finding meaning, no drugs involved — produced the same kind of result [@breitbart2015meaning].
+
+::: {.callout-important .fragment}
+Three completely different paths, landing in the same place.
+:::
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/psilocybin-mind.png){fig-alt="A psilocybin mushroom cluster beside a glowing, expanding mind silhouette" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+Here's an even more surprising convergence. Two carefully controlled studies, at NYU and Johns Hopkins, gave cancer patients a single strong dose of psilocybin — the compound found in certain mushrooms. The result: a real, lasting drop in fear of death, still present six months later — and it worked better than typical anti-anxiety or antidepressant medication.
+
+Here's the interesting part: the improvement tracked with how powerful and spiritual the experience felt to them, not the dose itself. And a completely separate approach — talk therapy built around finding meaning, no drugs involved — produced the same kind of result. Three completely different paths — a medical crisis, a drug, and talk therapy — landing in the same place.
+
+Image prompt: A conceptual illustration pairing a cluster of psilocybin mushrooms in the foreground with a softly glowing, gently expanding translucent silhouette of a human head/mind in the background, as if the mind is opening outward. Warm muted palette, painterly digital illustration style, calm and expansive rather than trippy or clinical, no text.
+
+Pace check: target ~22:30 elapsed.
+:::
+
+---
+
+## Reincarnation Research
+
+::: {.columns}
+::: {.column width="55%"}
+Ian Stevenson's [-@stevenson1966reincarnation] decades-long investigation of children's statements/behaviors suggestive of memories from a previous life.
+
+Doesn't speak directly to fear of death — but points to the same underlying claim: that whether we continue on after death is, at minimum, **a question science could actually investigate**.
+
+Kardec placed this claim at the center of his diagnosis in 1857 — three years before Darwin, more than a century before Stevenson's fieldwork began.
+:::
+::: {.column width="45%"}
+![Image placeholder — see speaker notes for the generation prompt](images/ian-stevenson.png){fig-alt="Portrait illustration of Ian Stevenson" .placeholder-image}
+:::
+:::
+
+::: {.notes}
+I'll mention this one briefly, because it's the most contested strand of evidence here, and I don't want to relitigate it today. Ian Stevenson spent decades investigating children's statements and behaviors suggestive of memories from a previous life. This doesn't speak directly to fear of death — but it points to the same underlying claim: that whether we continue on after death is, at minimum, a question science could actually investigate.
+
+And here's the historical detail worth noting: Kardec placed that claim at the center of his diagnosis in 1857 — three years before Darwin published, and more than a century before Stevenson's fieldwork even began.
+
+Image prompt: A dignified editorial portrait-style illustration of Ian Stevenson (Canadian-American psychiatrist and reincarnation researcher), painterly, not photorealistic, muted tones, seated with a notebook, a hint of bookshelves softly blurred in the background, calm and scholarly expression.
+
+Pace check: target ~23:30 elapsed.
+:::
+
+---
+
+## Where They Agree — and Disagree
+
+**Psychology's view:** a strong belief works as a shield — even if the belief isn't actually true.
+
+**Spiritism's view:** fear fades most when a belief is grounded in real evidence — which is why direct experience (near-death experiences, psilocybin) works better than just being told something.
+
+**A disagreement we could actually test:**
+Does a belief that merely *feels* solid protect us just as well as one grounded in real evidence? Nobody has run that comparison yet.
+
+::: {.notes}
+So let's put these two traditions side by side. Psychology's view: a strong belief works as a shield — even if the belief itself isn't actually true. Spiritism's view: fear fades most when a belief is grounded in real evidence — which is why direct experience, near-death experiences, psilocybin, works better than just being told something.
+
+And here's a disagreement we could actually go test: does a belief that merely feels solid protect us just as well as one that's grounded in real evidence? Nobody has run that comparison yet. I want to be honest that this is a genuinely open empirical question — not something I'm claiming is settled.
+
+Pace check: target ~25:30 elapsed.
+:::
+
+---
+
+## Does Guilt Matter?
+
+**Psychology's view:** feeling good about yourself helps — even if what you're proud of isn't especially good.
+
+**Kardec / André Luiz's view:** unresolved guilt makes death harder to face, on its own — regardless of how good you otherwise feel about yourself.
+
+This matches later research: regret over things left undone predicts fear of death on its own — something the "any belief helps" view doesn't clearly explain [@tomer1996comprehensive].
+
+::: {.notes}
+One more divergence, a bit faster. Psychology's view: feeling good about yourself helps — even if what you're proud of isn't especially good. Kardec and André Luiz's view: unresolved guilt makes death harder to face on its own, regardless of how good you otherwise feel about yourself.
+
+And this matches later research: regret over things left undone predicts fear of death on its own — something the "any belief helps" view doesn't clearly explain. Put simply: psychology says any standard you live up to helps. Kardec says what you actually did matters, independent of how you feel about it.
+
+Pace check: target ~26:30 elapsed.
+:::
+
+---
+
+## What This Means in Practice
+
+1. **Focus on how settled someone's beliefs are, not just their religious label** — a doubtful believer may be at *higher* risk than a confident atheist or a confident believer
+2. **Facing death helps more than avoiding it** — this matches both hospice care and Spiritist practice
+3. **A lasting sense that we continue on, or that life has meaning, is worth pursuing** — no matter how someone gets there
+
+None of this requires settling the bigger philosophical question.
+
+::: {.notes}
+So what does this actually mean in practice? Three things. First: focus on how settled someone's beliefs are, not just their religious label — a doubtful believer may be at higher risk than a confident atheist or a confident believer. Second: facing death helps more than avoiding it — this matches both hospice care and Spiritist practice. Third: a lasting sense that we continue on, or that life has meaning, is worth pursuing — no matter how someone gets there.
+
+And none of this requires settling the bigger philosophical question.
+
+Pace check: target ~28:00 elapsed.
+:::
+
+---
+
+## Conclusion
+
+Philosophy, psychology, medicine, and Spiritism each explain this fear differently. These are not the same explanation.
+
+But every body of research we've looked at points to the same simple pattern:
+
+**Fear of death fades most where someone's sense that they continue on, or that life has meaning, is strong and settled — and stays highest where that sense is shaky, no matter how religious someone appears to be.**
+
+Kardec staked this claim out in 1857. The data took over a century to start catching up.
+
+::: {.notes}
+Philosophy, psychology, medicine, and Spiritism each explain this fear differently. These are not the same explanation. But every body of research we've looked at today points to the same simple pattern: fear of death fades most where someone's sense that they continue on, or that life has meaning, is strong and settled — and stays highest where that sense is shaky, no matter how religious someone appears to be.
+
+Kardec staked this claim out in 1857. The data took over a century to start catching up.
+
+Pace check: target ~29:30 elapsed.
+:::
+
+---
+
+## Thank You
+
+Full essay, citations, and references: **The Spiritist Essays**
+
+Questions?
+
+::: {.notes}
+Thank you. The full essay, with citations and references, is available at The Spiritist Essays. I'd love to take your questions.
+
+[Q&A prep — not spoken: if questions run long, the most likely pushback points are (1) the reincarnation evidence slide — have Stevenson's methodology caveats ready; (2) whether "believed true on evidence" is doing too much philosophical work in the TMT-vs-Spiritism divergence slide — be ready to concede this is a genuinely open empirical question, not something the essay claims to have settled.]
+
+Pace check: land at ~30:00.
+:::
+
+---
+
+## References {.smaller}
+
+::: {#refs}
+:::

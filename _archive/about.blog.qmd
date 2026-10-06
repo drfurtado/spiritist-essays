@@ -1,0 +1,32 @@
+---
+title: "About"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+## About the Author
+
+**Ovande Furtado Jr., Ph.D.**
+
+I am an Associate Professor in the Kinesiology Department at California State University, Northridge, where I've taught since 2013. I hold a Ph.D. (2009) and M.S. (2004) in Motor Behavior from the University of Pittsburgh, and a B.A. in Physical Education from the Federal University of Paraná, in Curitiba, Brazil, where I'm originally from. Before CSUN, I was an Associate Professor at Eastern Illinois University (2007–2013).
+
+My academic research focuses on human motor development: validating observational models for psychomotor assessment, the relationships between motor skill competence, perceived competence, physical activity, and body composition, and — more recently — applying artificial intelligence to automate the recognition and evaluation of fundamental movement skills. None of that is what this site is about.
+
+## About Kardec.ONE
+
+*Kardec.ONE* is a personal, non-commercial project — a place where I write, in my own time and entirely apart from my academic work, about Spiritism as codified by Allan Kardec and its dialogue with contemporary science.
+
+I've long been drawn to the question of what a rigorous, evidence-engaged reading of Kardecian Spiritism looks like — one that takes Spiritism's core claims seriously as hypotheses, without lapsing into devotional or confessional writing, and that takes contemporary research in consciousness studies, neuroscience, psychology, and survival studies just as seriously. That's the project here: blog posts that put primary Kardecist and psychographed sources (Allan Kardec, André Luiz) into direct conversation with peer-reviewed scholarship, looking for genuine convergence, real tension, and open questions — not apologetics.
+
+Topics I return to include:
+
+* Consciousness and personal identity
+* The spiritual body (perispirit) and models of embodiment
+* Survival of death and continuity of consciousness
+* Near-death and other anomalous experiences
+* Moral development and ethical progress
+* Philosophy of mind and dual-aspect theories
+* Clinical, psychological, or neuroscientific research that bears on Spiritist claims
+
+This isn't peer-reviewed scholarship, and it doesn't claim to be. It.s one person.s ongoing blog, written as carefully and honestly as I can manage, with full citations so you can go check the sources yourself and disagree with me.

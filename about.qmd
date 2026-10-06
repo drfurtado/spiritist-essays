@@ -1,84 +1,80 @@
 ---
-title: "About the Journal"
+title: "About"
 page-layout: article
 toc: true
 toc-depth: 2
 ---
 
-## Title and Scope
+## About the Author
 
-**Shorttitle:** "Spiritist Inquiry"
+**Ovande Furtado Jr., Ph.D.**
 
-**Longtitle:** Spiritist Inquiry: An Interdisciplinary Journal of Spiritism and Contemporary Science
+I am a Professor in the Kinesiology Department at California State University, Northridge, where I've taught since 2013. I hold a Ph.D. (2009) and M.S. (2004) in Motor Behavior from the University of Pittsburgh, and a B.A. in Physical Education from the Federal University of Paraná, in Curitiba, Brazil, where I'm originally from. Before CSUN, I was an Associate Professor at Eastern Illinois University (2007–2013).
 
-*Spiritist Inquiry* is a peer-reviewed, open-access scholarly journal dedicated to the rigorous study of Spiritism as codified by Allan Kardec and its dialogue with contemporary scientific research. The journal provides an academic forum for interdisciplinary scholarship examining convergences and tensions between Spiritist doctrine and modern inquiry.
+My academic research focuses on human motor development: validating observational models for psychomotor assessment, the relationships between motor skill competence, perceived competence, physical activity, and body composition, and — more recently — applying artificial intelligence to automate the recognition and evaluation of fundamental movement skills. None of that is what this site is about.
 
-Rooted in the Kardecian corpus, the journal promotes disciplined investigation rather than confessional or devotional writing. Its purpose is to cultivate intellectual rigor, methodological clarity, and respectful dialogue across disciplines concerned with consciousness, identity, health, moral development, and human evolution.
+## About The Spiritist Essays
 
----
+*The Spiritist Essays* is a personal, non-commercial project — a place where I write, in my own time and entirely apart from my academic work, about Spiritism as codified by Allan Kardec and its dialogue with contemporary science.
 
-## Mission
+I've long been drawn to the question of what a rigorous, evidence-engaged reading of Kardecian Spiritism looks like — one that takes Spiritism's core claims seriously as hypotheses, without lapsing into devotional or confessional writing, and that takes contemporary research in consciousness studies, neuroscience, psychology, and survival studies just as seriously. That's the project here: essays that put primary Kardecist and psychographed sources (Allan Kardec, André Luiz) into direct conversation with peer-reviewed scholarship, looking for genuine convergence, real tension, and open questions — not apologetics.
 
-*Spiritist Inquiry* advances scholarly dialogue between Kardecian Spiritism and contemporary science. The journal supports philosophical, empirical, and theoretical work that critically engages Spiritist doctrine alongside peer reviewed research in fields such as psychology, neuroscience, philosophy of mind, medical science, and survival studies.
+Topics I return to include:
 
-By fostering interdisciplinary collaboration and analytical precision, the journal seeks to contribute meaningfully to ongoing discussions concerning consciousness, the spiritual body, personal identity, moral progress, and the continuity of life.
+* Consciousness and personal identity
+* The spiritual body (perispirit) and models of embodiment
+* Survival of death and continuity of consciousness
+* Near-death and other anomalous experiences
+* Moral development and ethical progress
+* Philosophy of mind and dual-aspect theories
+* Clinical, psychological, or neuroscientific research that bears on Spiritist claims
 
----
+This isn't peer-reviewed scholarship, and it doesn't claim to be. It's one person's ongoing blog, written as carefully and honestly as I can manage, with full citations so you can go check the sources yourself and disagree with me.
 
-## Aims and Scope
+## What Spiritism Is — and What It Is Not
 
-The journal publishes original research, theoretical scholarship, and critical analyses that explore the relationship between Spiritist thought and contemporary scientific perspectives. Areas of interest include, but are not limited to:
+Spiritism is widely misunderstood, even in Brazil, where it has its largest following. Since everything on this site depends on what the word means, it is worth stating plainly, in Kardec's own terms. Translations from Kardec's French are my own.
 
-* Consciousness studies
-* Philosophy of mind
-* Psychology and psychiatry
-* Neuroscience
-* Medical and health sciences
-* Survival and near death research
-* Anomalous experience research
-* Ethics and moral development
-* Human evolution and spiritual anthropology
-* History and philosophy of science
+### A new word for a new thing
 
-Submissions must engage primary Spiritist sources within the Kardecian tradition and interact substantively with peer reviewed scientific literature. Contributions may support, refine, reinterpret, or critically assess doctrinal propositions, provided they meet standards of scholarly rigor.
+Kardec coined the word. *The Spirits' Book* (1857) opens with the principle that "new things call for new words." The word *spiritualism*, Kardec explained, already had a settled meaning: any view opposed to materialism. One can be a spiritualist in that sense without believing that spirits exist or communicate with us. He therefore introduced the terms *spirite* and *spiritisme* for a doctrine whose subject is precisely the relationship between the material world and the world of Spirits [@kardec1857spirits].
 
-The journal does not publish devotional, proselytizing, or purely confessional works. All manuscripts undergo double blind peer review.
+### Kardec's definition
 
----
+In *What Is Spiritism?* (1859), Kardec defined it this way:
 
-## Article Types
+> "Spiritism is at once a science of observation and a philosophical doctrine. As a practical science, it consists in the relations that can be established with Spirits; as a philosophical doctrine, it comprises all the moral consequences that follow from those relations." [@kardec1859whatis]
 
-### Original Research
+More formally, he called it "a science that deals with the nature, origin, and destiny of Spirits, and with their relations with the corporeal world" [@kardec1859whatis].
 
-Original Research articles present empirical investigations that engage Spiritist theory in dialogue with contemporary scientific methods. Studies may employ quantitative, qualitative, historical, or mixed methodologies and must demonstrate methodological rigor, transparency, and substantive engagement with both Kardecian sources and peer reviewed scholarship.
+Three terms recur throughout the fundamental works, and each has a specific meaning:
 
-### Theoretical Analysis
+* **Science.** Kardec presented Spiritism as an inquiry into a class of phenomena, mediumistic communications, studied by observation, comparison, and agreement among independent sources. He also held that it must correct itself when the evidence requires: Spiritism, he wrote, "will never be overtaken" by progress, because "if new discoveries showed it to be in error on any point, it would change on that point" [@kardec1868genesis].
+* **Philosophy.** The title page of *The Spirits' Book* describes it as *spiritualist philosophy*. Its subject matter is the questions philosophy has always asked (God, the soul, the purpose of life, the moral law, what follows death), answered from the communications Kardec collected and compared [@kardec1857spirits].
+* **Religious consequences.** A philosophy that addresses God, the soul, and the moral law cannot avoid bearing on religion. Kardec wrote that Spiritism "has moral consequences, like all philosophical sciences," and that it leads "essentially to religious ideas" [@kardec1859whatis]. *The Gospel According to Spiritism* develops that moral side through the teachings of Jesus, read as ethics rather than dogma, and argues that science and religion, once each stops treating its own viewpoint as exclusive, are bound to meet [@kardec1864gospel].
 
-Theoretical Analysis articles develop, refine, or critically evaluate conceptual frameworks within Spiritism and related scientific or philosophical disciplines. These contributions clarify key constructs, examine coherence, and propose models that advance scholarly understanding.
+In the Brazilian Spiritist movement this is often summarized as the "threefold aspect" of Spiritism: science, philosophy, and religion. The summary is useful, but it is a later shorthand rather than Kardec's own formula, and Kardec qualified the word *religion* carefully.
 
-### Systematic Review
+### Is Spiritism a religion?
 
-Systematic Reviews synthesize existing peer reviewed research using transparent and replicable procedures. These articles assess the current state of evidence, identify gaps, and evaluate how findings relate to Spiritist propositions.
+Kardec answered this directly in a speech delivered in Paris on November 1, 1868, and published in the *Revue Spirite* [@kardec1868revue]. His answer was yes and no.
 
-### Conceptual Integration Essays
+In the *philosophical* sense, meaning a bond that unites people around shared moral convictions, as when we speak of "the religion of friendship" or "the religion of the family," he said that "Spiritism is a religion, and we take pride in it."
 
-Conceptual Integration Essays bring Spiritist doctrine into structured dialogue with contemporary research or philosophical debates. Rather than presenting new empirical data, these essays synthesize perspectives to illuminate convergences, tensions, and directions for future inquiry.
+But he explained why he had nonetheless declared that Spiritism is *not* a religion: "there is only one word to express two different ideas," and in common usage "the word religion is inseparable from that of worship." In that ordinary sense, Spiritism "has none of the characteristics of a religion": no temples, no priesthood, no ceremonies.
 
-### Scholarly Book Reviews
+That is the sense in which I use the word on this site. Spiritism **is a philosophy grounded in observation, with moral and religious consequences**. It is not a religion in the institutional sense. Kardec also insisted that whatever faith it produces must answer to reason: "The only unshakable faith is the one that can look reason in the face, in every age of humanity" [@kardec1864gospel].
 
-Scholarly Book Reviews critically evaluate recent academic publications relevant to Spiritism and related disciplines. Reviews assess theoretical contribution, methodological rigor, and relevance to the journal’s scope.
+### What Spiritism is not
 
----
+* **Not a church.** It has no clergy, sacraments, rituals, vestments, altars, sacred images, or obligatory ceremonies [@kardec1868revue]. Spiritist centers typically meet for study, lectures, and charitable work.
+* **Not Spiritualism.** Anglo-American Spiritualism, which emerged in the United States in the late 1840s, shares an interest in mediumship but developed independently and, for the most part, did not adopt reincarnation, which is central to Kardec's doctrine. Kardec chose a different word precisely to avoid this confusion [@kardec1857spirits].
+* **Not Umbanda, Candomblé, or other Afro-Brazilian religions.** In Brazil, the word *espírita* is sometimes used loosely to cover these traditions. They have their own histories, rites, and practices, such as offerings, initiations, and devotion to the orixás, none of which are part of Kardec's doctrine. This is a distinction, not a judgment of those traditions.
+* **Not fortune-telling, magic, or the occult.** Spiritism offers no divination, spells, amulets, or paid consultations. Its principle, taken from the Gospel, is "give freely what you have received freely": mediumship is not to be sold [@kardec1864gospel].
+* **Not a demand for conversion.** In Kardec's words, Spiritism "imposes itself on no one" [@kardec1859whatis]. People of any religion, or none, can study it and accept or reject its conclusions.
+* **Not a closed system.** By Kardec's own standard, a Spiritist claim that conflicts with well-established evidence must give way [@kardec1868genesis]. That standard is the reason this site exists.
 
-## Peer Review and Publication Model
+## References {.unnumbered}
 
-*Spiritist Inquiry* operates under a double blind peer review process. Each manuscript is evaluated by at least two independent reviewers with expertise in relevant fields. Submissions are assessed for:
-
-* Engagement with Kardecian sources
-* Engagement with contemporary scholarship
-* Logical coherence
-* Methodological soundness
-* Contribution to interdisciplinary dialogue
-
-The journal is published online in open access format. Initial publication frequency is biannual, with plans for expansion as submission volume grows.
-
+::: {#refs}
+:::
